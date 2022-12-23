@@ -23,7 +23,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
 # CSV that I manually scraped the data for
-attendance = read_csv('C:/Users/drewm/Desktop/attendance/attendance_pred.csv')
+attendance = read_csv('C:/Users/drewm/Desktop/attendance/all_data.csv')
 
 # Predictive variables are: previous season's winning %, previous season's home
 # winning %, how many All-NBA players the team had in the previous season, how well
@@ -33,13 +33,13 @@ attendance = read_csv('C:/Users/drewm/Desktop/attendance/attendance_pred.csv')
 # Target variable is this season's attendance
 
 print(attendance.shape)
-print(attendance.head(5))
+#print(attendance.head(5))
 
 #attendance.hist()
 #pyplot.show()
 
 array = attendance.values
-X = array[:,8:12]
+X = array[:,8:]
 y = array[:,7]
 #print(X)
 

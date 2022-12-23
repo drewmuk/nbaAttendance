@@ -1,481 +1,481 @@
-﻿YEAR,Team,Prev Name,Nickname,Abbrev,Attendance,Num,Class,Prev W%,Prev Home W%,Prev All-NBA points,Prev playoff points,Prev attendance
-2022,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.905618722,12,Slightly High,0.569444444,0.694444444,0,4,0.885417817
-2022,Boston Celtics,Boston Celtics,Celtics,BOS,1,13,High,0.5,0.583333333,0,1,0.996502401
-2022,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.978682608,13,High,0.666666667,0.777777778,0,2,0.925050756
-2022,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.895895581,12,Slightly High,0.458333333,0.5,0,0,0.809246737
-2022,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.998278912,13,High,0.430555556,0.416666667,0,0,0.89898169
-2022,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.951677645,13,High,0.305555556,0.361111111,0,0,0.916838205
-2022,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.028072917,14,Very High,0.583333333,0.583333333,3,1,1.04484375
-2022,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.86869877,12,Slightly High,0.652777778,0.694444444,3,2,0.982889344
-2022,Detroit Pistons,Detroit Pistons,Pistons,DET,0.795986622,11,Slightly Low,0.277777778,0.361111111,0,0,0.759295692
-2022,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.541666667,0.694444444,3,0,1
-2022,Houston Rockets,Houston Rockets,Rockets,HOU,0.863140404,12,Slightly High,0.236111111,0.25,0,0,1.001163113
-2022,Indiana Pacers,Indiana Pacers,Pacers,IND,0.801149361,11,Slightly Low,0.472222222,0.361111111,0,0,0.922334431
-2022,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.887665198,12,Slightly High,0.652777778,0.722222222,4,4,1
-2022,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.978026012,13,High,0.583333333,0.583333333,2,1,0.996276484
-2022,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.886534787,12,Slightly High,0.527777778,0.5,0,1,0.891143082
-2022,Miami Heat,Miami Heat,Heat,MIA,1.001428571,13,High,0.555555556,0.583333333,1,1,1.004081633
-2022,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.997314286,13,High,0.638888889,0.722222222,3,16,1.012
-2022,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.844556855,11,Slightly Low,0.319444444,0.361111111,0,0,0.793866582
-2022,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.919547045,12,Slightly High,0.430555556,0.5,0,0,0.978537974
-2022,New York Knicks,New York Knicks,NY Knicks,NYK,0.939884918,13,High,0.569444444,0.694444444,2,1,0.949475066
-2022,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,0.817282865,11,Slightly Low,0.305555556,0.277777778,0,0,1
-2022,Orlando Magic,Orlando Magic,Magic,ORL,0.806112703,11,Slightly Low,0.291666667,0.305555556,0,0,0.906929852
-2022,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,1.008643422,13,High,0.680555556,0.805555556,2,2,1.007324934
-2022,Phoenix Suns,Phoenix Suns,Suns,PHO,0.970476246,13,High,0.708333333,0.75,2,8,0.921562884
-2022,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.885191091,12,Slightly High,0.583333333,0.555555556,2,1,1.009876035
-2022,Sacramento Kings,Sacramento Kings,Kings,SAC,0.821190923,11,Slightly Low,0.430555556,0.444444444,0,0,0.955183985
-2022,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.815180801,11,Slightly Low,0.458333333,0.388888889,0,0,0.99630796
-2022,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.953181818,13,High,0.375,0.444444444,0,0,0.999747475
-2022,Utah Jazz,Utah Jazz,Jazz,UTA,1,13,High,0.722222222,0.861111111,1,2,1
-2022,Washington Wizards,Washington Wizards,Wizards,WAS,0.763460405,10,Low,0.472222222,0.527777778,1,1,0.817744154
-2020,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.885417817,12,Slightly High,0.353658537,0.414634146,0,0,0.8459543
-2020,Boston Celtics,Boston Celtics,Celtics,BOS,0.996502401,13,High,0.597560976,0.682926829,2,2,0.972228023
-2020,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.925050756,12,Slightly High,0.512195122,0.56097561,0,1,0.842600947
-2020,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.809246737,11,Slightly Low,0.475609756,0.609756098,0,0,0.864968286
-2020,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.89898169,12,Slightly High,0.268292683,0.219512195,0,0,0.960175933
-2020,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.916838205,12,Slightly High,0.231707317,0.317073171,0,0,0.995728695
-2020,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.04484375,14,Very High,0.402439024,0.585365854,0,0,1.04234375
-2020,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.982889344,13,High,0.658536585,0.829268293,3,2,0.945184426
-2020,Detroit Pistons,Detroit Pistons,Pistons,DET,0.759295692,10,Low,0.5,0.634146341,1,1,0.810840055
-2020,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.695121951,0.731707317,5,8,1
-2020,Houston Rockets,Houston Rockets,Rockets,HOU,1.001163113,13,High,0.646341463,0.756097561,3,2,1.000166159
-2020,Indiana Pacers,Indiana Pacers,Pacers,IND,0.922334431,12,Slightly High,0.585365854,0.707317073,0,1,0.938012609
-2020,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1,13,High,0.585365854,0.634146341,0,1,0.908590308
-2020,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.451219512,0.536585366,1,0,0.996276484
-2020,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.891143082,12,Slightly High,0.402439024,0.512195122,0,0,0.875463639
-2020,Miami Heat,Miami Heat,Heat,MIA,1.004081633,13,High,0.475609756,0.463414634,0,0,1.002040816
-2020,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,1.012,13,High,0.731707317,0.804878049,3,4,1.005828571
-2020,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.793866582,11,Slightly Low,0.43902439,0.609756098,0,0,0.806460112
-2020,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.978537974,13,High,0.402439024,0.463414634,0,0,0.948835003
-2020,New York Knicks,New York Knicks,NY Knicks,NYK,0.949475066,13,High,0.207317073,0.219512195,0,0,0.959115687
-2020,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.597560976,0.658536585,4,1,1
-2020,Orlando Magic,Orlando Magic,Magic,ORL,0.906929852,12,Slightly High,0.512195122,0.609756098,0,1,0.93181577
-2020,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,1.007324934,13,High,0.62195122,0.756097561,2,2,0.998193183
-2020,Phoenix Suns,Phoenix Suns,Suns,PHO,0.921562884,12,Slightly High,0.231707317,0.292682927,0,0,0.895846758
-2020,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.009876035,13,High,0.646341463,0.780487805,2,4,1.002829073
-2020,Sacramento Kings,Sacramento Kings,Kings,SAC,0.955183985,13,High,0.475609756,0.585365854,0,0,0.972302792
-2020,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.99630796,13,High,0.585365854,0.780487805,0,1,0.993973287
-2020,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.999747475,13,High,0.707317073,0.780487805,2,16,1.001212121
-2020,Utah Jazz,Utah Jazz,Jazz,UTA,1,13,High,0.609756098,0.707317073,1,1,1
-2020,Washington Wizards,Washington Wizards,Wizards,WAS,0.817744154,11,Slightly Low,0.390243902,0.536585366,0,0,0.859058754
-2019,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.8459543,11,Slightly Low,0.292682927,0.390243902,0,0,0.795286455
-2019,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.670731707,0.658536585,0,4,0.972228023
-2019,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.842600947,11,Slightly Low,0.341463415,0.365853659,0,0,0.877284006
-2019,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.864968286,12,Slightly High,0.43902439,0.512195122,0,0,0.858363474
-2019,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.960175933,13,High,0.329268293,0.414634146,0,0,0.993259072
-2019,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.995728695,13,High,0.609756098,0.707317073,3,8,1.058151503
-2019,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.04234375,14,Very High,0.292682927,0.365853659,0,0,1.03078125
-2019,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.945184426,13,High,0.56097561,0.756097561,0,0,0.878125
-2019,Detroit Pistons,Detroit Pistons,Pistons,DET,0.810840055,11,Slightly Low,0.475609756,0.609756098,0,0,0.856433209
-2019,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.707317073,0.707317073,4,16,1
-2019,Houston Rockets,Houston Rockets,Rockets,HOU,1.000166159,13,High,0.792682927,0.829268293,3,4,0.99141512
-2019,Indiana Pacers,Indiana Pacers,Pacers,IND,0.938012609,13,High,0.585365854,0.658536585,1,1,0.8955532
-2019,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.908590308,12,Slightly High,0.512195122,0.536585366,0,0,0.89254248
-2019,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.426829268,0.487804878,0,0,0.992972519
-2019,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.875463639,12,Slightly High,0.268292683,0.390243902,0,0,0.896200967
-2019,Miami Heat,Miami Heat,Heat,MIA,1.002040816,13,High,0.536585366,0.634146341,0,1,1.001581633
-2019,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,1.005828571,13,High,0.536585366,0.609756098,2,1,0.892984987
-2019,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.806460112,11,Slightly Low,0.573170732,0.731707317,2,1,0.898724839
-2019,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.948835003,13,High,0.585365854,0.585365854,3,2,0.974506433
-2019,New York Knicks,New York Knicks,NY Knicks,NYK,0.959115687,13,High,0.353658537,0.463414634,0,0,0.975721785
-2019,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.585365854,0.658536585,3,1,1
-2019,Orlando Magic,Orlando Magic,Magic,ORL,0.93181577,12,Slightly High,0.304878049,0.414634146,0,0,0.94943224
-2019,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.998193183,13,High,0.634146341,0.731707317,2,2,0.992723899
-2019,Phoenix Suns,Phoenix Suns,Suns,PHO,0.895846758,12,Slightly High,0.256097561,0.243902439,0,0,0.98799133
-2019,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.002829073,13,High,0.597560976,0.682926829,3,1,0.99778818
-2019,Sacramento Kings,Sacramento Kings,Kings,SAC,0.972302792,13,High,0.329268293,0.341463415,0,0,0.998407553
-2019,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.993973287,13,High,0.573170732,0.804878049,2,1,0.999185579
-2019,Toronto Raptors,Toronto Raptors,Raptors,TOR,1.001212121,13,High,0.719512195,0.829268293,2,2,1.001969697
-2019,Utah Jazz,Utah Jazz,Jazz,UTA,1,13,High,0.585365854,0.682926829,0,2,0.979023271
-2019,Washington Wizards,Washington Wizards,Wizards,WAS,0.859058754,11,Slightly Low,0.524390244,0.56097561,0,1,0.882933779
-2018,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.795286455,11,Slightly Low,0.524390244,0.56097561,0,1,0.880781543
-2018,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.646341463,0.731707317,2,4,0.968521612
-2018,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.877284006,12,Slightly High,0.243902439,0.317073171,0,0,0.870121814
-2018,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.858363474,11,Slightly Low,0.43902439,0.536585366,0,0,0.908528595
-2018,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.993259072,13,High,0.5,0.609756098,1,1,1.036477506
-2018,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.62195122,0.756097561,3,8,1.058151503
-2018,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.03078125,14,Very High,0.402439024,0.512195122,0,0,1.030677083
-2018,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.878125,12,Slightly High,0.487804878,0.536585366,0,0,0.756659836
-2018,Detroit Pistons,Detroit Pistons,Pistons,DET,0.856433209,11,Slightly Low,0.451219512,0.585365854,0,0,0.723817721
-2018,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.817073171,0.87804878,5,16,1
-2018,Houston Rockets,Houston Rockets,Rockets,HOU,0.99141512,13,High,0.670731707,0.731707317,3,2,0.940072002
-2018,Indiana Pacers,Indiana Pacers,Pacers,IND,0.8955532,12,Slightly High,0.512195122,0.707317073,0,1,0.931596273
-2018,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.89254248,12,Slightly High,0.62195122,0.707317073,1,1,1.001048878
-2018,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.992972519,13,High,0.317073171,0.414634146,0,0,0.993759178
-2018,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.896200967,12,Slightly High,0.524390244,0.585365854,0,1,0.928346634
-2018,Miami Heat,Miami Heat,Heat,MIA,1.001581633,13,High,0.5,0.56097561,0,0,1.002193878
-2018,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.892984987,12,Slightly High,0.512195122,0.56097561,2,1,0.845648341
-2018,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.898724839,12,Slightly High,0.37804878,0.487804878,0,0,0.780324586
-2018,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.974506433,13,High,0.414634146,0.512195122,3,0,0.958854568
-2018,New York Knicks,New York Knicks,NY Knicks,NYK,0.975721785,13,High,0.37804878,0.463414634,0,0,0.998081971
-2018,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.573170732,0.682926829,3,1,1
-2018,Orlando Magic,Orlando Magic,Magic,ORL,0.94943224,13,High,0.353658537,0.390243902,0,0,0.942003608
-2018,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.992723899,13,High,0.341463415,0.414634146,0,0,0.84627405
-2018,Phoenix Suns,Phoenix Suns,Suns,PHO,0.98799133,13,High,0.292682927,0.365853659,0,0,1.012418722
-2018,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.99778818,13,High,0.5,0.609756098,0,1,0.993621727
-2018,Sacramento Kings,Sacramento Kings,Kings,SAC,0.998407553,13,High,0.390243902,0.414634146,0,0,1.001421828
-2018,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.999185579,13,High,0.743902439,0.756097561,3,4,1.000271474
-2018,Toronto Raptors,Toronto Raptors,Raptors,TOR,1.001969697,13,High,0.62195122,0.682926829,1,2,1.001515152
-2018,Utah Jazz,Utah Jazz,Jazz,UTA,0.979023271,13,High,0.62195122,0.707317073,2,2,1.07467497
-2018,Washington Wizards,Washington Wizards,Wizards,WAS,0.882933779,12,Slightly High,0.597560976,0.731707317,1,2,0.835232855
-2017,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.880781543,12,Slightly High,0.585365854,0.658536585,0,2,0.929020863
-2017,Boston Celtics,Boston Celtics,Celtics,BOS,0.968521612,13,High,0.585365854,0.682926829,0,1,0.953748173
-2017,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.870121814,12,Slightly High,0.256097561,0.341463415,0,0,0.852977667
-2017,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.908528595,12,Slightly High,0.585365854,0.731707317,0,1,0.916548724
-2017,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.036477506,14,Very High,0.512195122,0.634146341,0,0,1.043170627
-2017,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.695121951,0.804878049,3,16,1.058151503
-2017,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.030677083,14,Very High,0.512195122,0.56097561,0,1,1.049114583
-2017,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.756659836,10,Low,0.402439024,0.43902439,0,0,0.722079918
-2017,Detroit Pistons,Detroit Pistons,Pistons,DET,0.723817721,10,Low,0.536585366,0.634146341,1,1,0.748097481
-2017,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.890243902,0.951219512,6,8,1
-2017,Houston Rockets,Houston Rockets,Rockets,HOU,0.940072002,13,High,0.5,0.56097561,0,1,0.995901412
-2017,Indiana Pacers,Indiana Pacers,Pacers,IND,0.931596273,12,Slightly High,0.548780488,0.634146341,1,1,0.939965408
-2017,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.001048878,13,High,0.646341463,0.707317073,5,1,1.006503042
-2017,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.993759178,13,High,0.207317073,0.292682927,0,0,0.996276484
-2017,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.928346634,12,Slightly High,0.512195122,0.634146341,0,1,0.938350006
-2017,Miami Heat,Miami Heat,Heat,MIA,1.002193878,13,High,0.585365854,0.682926829,0,2,1.007142857
-2017,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.845648341,11,Slightly Low,0.402439024,0.56097561,0,0,0.810279425
-2017,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.780324586,10,Low,0.353658537,0.341463415,0,0,0.746917483
-2017,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.958854568,13,High,0.365853659,0.512195122,0,0,0.995612735
-2017,New York Knicks,New York Knicks,NY Knicks,NYK,0.998081971,13,High,0.390243902,0.43902439,0,0,1
-2017,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.670731707,0.780487805,5,4,1
-2017,Orlando Magic,Orlando Magic,Magic,ORL,0.942003608,13,High,0.426829268,0.56097561,0,0,0.93086066
-2017,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.84627405,11,Slightly Low,0.12195122,0.170731707,0,0,0.726682293
-2017,Phoenix Suns,Phoenix Suns,Suns,PHO,1.012418722,13,High,0.280487805,0.341463415,0,0,1.00210884
-2017,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.993621727,13,High,0.536585366,0.682926829,2,2,0.996193611
-2017,Sacramento Kings,Sacramento Kings,Kings,SAC,1.001421828,13,High,0.402439024,0.43902439,2,0,0.99647745
-2017,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.000271474,13,High,0.817073171,0.975609756,4,2,1.001683136
-2017,Toronto Raptors,Toronto Raptors,Raptors,TOR,1.001515152,13,High,0.682926829,0.780487805,1,4,1.001262626
-2017,Utah Jazz,Utah Jazz,Jazz,UTA,1.07467497,14,Very High,0.487804878,0.585365854,0,0,1.054517644
-2017,Washington Wizards,Washington Wizards,Wizards,WAS,0.835232855,11,Slightly Low,0.5,0.536585366,0,0,0.869178621
-2016,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.929020863,12,Slightly High,0.731707317,0.853658537,0,4,0.961033227
-2016,Boston Celtics,Boston Celtics,Celtics,BOS,0.953748173,13,High,0.487804878,0.512195122,0,1,0.918406766
-2016,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.852977667,11,Slightly Low,0.463414634,0.463414634,0,1,0.960805324
-2016,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.916548724,12,Slightly High,0.402439024,0.463414634,0,0,0.901189915
-2016,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.043170627,14,Very High,0.609756098,0.658536585,2,2,1.020366209
-2016,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.646341463,0.756097561,4,8,1.058151503
-2016,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.049114583,14,Very High,0.609756098,0.658536585,0,1,1.05140625
-2016,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.722079918,10,Low,0.365853659,0.463414634,0,0,0.75307377
-2016,Detroit Pistons,Detroit Pistons,Pistons,DET,0.748097481,10,Low,0.390243902,0.43902439,0,0,0.691520203
-2016,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.817073171,0.951219512,4,16,1
-2016,Houston Rockets,Houston Rockets,Rockets,HOU,0.995901412,13,High,0.682926829,0.731707317,3,4,1.00963722
-2016,Indiana Pacers,Indiana Pacers,Pacers,IND,0.939965408,13,High,0.463414634,0.56097561,0,0,0.94091391
-2016,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.006503042,13,High,0.682926829,0.731707317,4,2,1.005244389
-2016,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.256097561,0.292682927,0,0,0.982641074
-2016,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.938350006,13,High,0.670731707,0.756097561,3,2,0.973867596
-2016,Miami Heat,Miami Heat,Heat,MIA,1.007142857,13,High,0.451219512,0.487804878,0,0,1.005714286
-2016,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.810279425,11,Slightly Low,0.5,0.56097561,0,1,0.796441737
-2016,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.746917483,10,Low,0.195121951,0.219512195,0,0,0.765517968
-2016,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.995612735,13,High,0.548780488,0.682926829,3,1,0.9887354
-2016,New York Knicks,New York Knicks,NY Knicks,NYK,1,13,High,0.207317073,0.243902439,0,0,1
-2016,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.548780488,0.707317073,2,0,1
-2016,Orlando Magic,Orlando Magic,Magic,ORL,0.93086066,12,Slightly High,0.304878049,0.317073171,0,0,0.890639924
-2016,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.726682293,10,Low,0.219512195,0.292682927,0,0,0.68073054
-2016,Phoenix Suns,Phoenix Suns,Suns,PHO,1.00210884,13,High,0.475609756,0.536585366,0,0,0.991330326
-2016,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.996193611,13,High,0.62195122,0.780487805,2,1,1.005812458
-2016,Sacramento Kings,Sacramento Kings,Kings,SAC,0.99647745,13,High,0.353658537,0.43902439,2,0,0.957787146
-2016,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.001683136,13,High,0.670731707,0.804878049,1,1,1.010207406
-2016,Toronto Raptors,Toronto Raptors,Raptors,TOR,1.001262626,13,High,0.597560976,0.658536585,0,1,0.997525253
-2016,Utah Jazz,Utah Jazz,Jazz,UTA,1.054517644,14,Very High,0.463414634,0.512195122,0,0,1.028624495
-2016,Washington Wizards,Washington Wizards,Wizards,WAS,0.869178621,12,Slightly High,0.56097561,0.707317073,0,2,0.895952053
-2015,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.961033227,13,High,0.463414634,0.585365854,0,1,0.791422894
-2015,Boston Celtics,Boston Celtics,Celtics,BOS,0.918406766,12,Slightly High,0.304878049,0.390243902,0,0,0.94523909
-2015,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.960805324,13,High,0.536585366,0.682926829,0,2,0.9728739
-2015,Charlotte Hornets,Charlotte Bobcats,Hornets,CHA,0.901189915,12,Slightly High,0.524390244,0.609756098,1,1,0
-2015,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.020366209,14,Very High,0.585365854,0.658536585,3,1,1.038198594
-2015,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.402439024,0.463414634,0,0,0.891776451
-2015,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.05140625,14,Very High,0.597560976,0.634146341,0,1,1.0390625
-2015,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.75307377,10,Low,0.43902439,0.536585366,0,0,0.865727459
-2015,Detroit Pistons,Detroit Pistons,Pistons,DET,0.691520203,9,Very Low,0.353658537,0.414634146,0,0,0.679697409
-2015,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.62195122,0.658536585,2,1,1
-2015,Houston Rockets,Houston Rockets,Rockets,HOU,1.00963722,13,High,0.658536585,0.804878049,5,1,1.00376627
-2015,Indiana Pacers,Indiana Pacers,Pacers,IND,0.94091391,13,High,0.682926829,0.853658537,1,4,0.976454835
-2015,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.005244389,13,High,0.695121951,0.829268293,5,2,1.007551919
-2015,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.982641074,13,High,0.329268293,0.341463415,0,0,0.987413468
-2015,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.973867596,13,High,0.609756098,0.658536585,0,1,0.939530179
-2015,Miami Heat,Miami Heat,Heat,MIA,1.005714286,13,High,0.658536585,0.780487805,3,8,1.009234694
-2015,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.796441737,11,Slightly Low,0.182926829,0.243902439,0,0,0.720574878
-2015,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.765517968,10,Low,0.487804878,0.585365854,2,0,0.767414901
-2015,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.9887354,13,High,0.414634146,0.536585366,0,0,0.971719926
-2015,New York Knicks,New York Knicks,NY Knicks,NYK,1,13,High,0.451219512,0.463414634,0,0,1
-2015,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.719512195,0.829268293,3,4,1
-2015,Orlando Magic,Orlando Magic,Magic,ORL,0.890639924,12,Slightly High,0.280487805,0.463414634,0,0,0.861986628
-2015,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.68073054,9,Very Low,0.231707317,0.243902439,0,0,0.677263405
-2015,Phoenix Suns,Phoenix Suns,Suns,PHO,0.991330326,13,High,0.585365854,0.634146341,1,0,0.929705348
-2015,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.005812458,13,High,0.658536585,0.756097561,2,2,1.015688493
-2015,Sacramento Kings,Sacramento Kings,Kings,SAC,0.957787146,13,High,0.341463415,0.414634146,0,0,0.940751862
-2015,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.010207406,13,High,0.756097561,0.780487805,2,16,0.999837116
-2015,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.997525253,13,High,0.585365854,0.634146341,0,1,0.921818182
-2015,Utah Jazz,Utah Jazz,Jazz,UTA,1.028624495,14,Very High,0.304878049,0.390243902,0,0,0.992843876
-2015,Washington Wizards,Washington Wizards,Wizards,WAS,0.895952053,12,Slightly High,0.536585366,0.536585366,0,2,0.836411869
-2014,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.791422894,11,Slightly Low,0.536585366,0.609756098,0,1,0.834805166
-2014,Boston Celtics,Boston Celtics,Celtics,BOS,0.94523909,13,High,0.50617284,0.675,0,1,0.972228023
-2014,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.9728739,13,High,0.597560976,0.634146341,0,1,0.969264606
-2014,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.813440268,11,Slightly Low,0.256097561,0.365853659,0,0,0.803270955
-2014,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.038198594,14,Very High,0.548780488,0.585365854,0,2,1.045847875
-2014,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.891776451,12,Slightly High,0.292682927,0.341463415,0,0,0.833264718
-2014,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.0390625,14,Very High,0.5,0.585365854,0,0,1.043541667
-2014,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.865727459,12,Slightly High,0.695121951,0.926829268,0,1,0.912858607
-2014,Detroit Pistons,Detroit Pistons,Pistons,DET,0.679697409,9,Very Low,0.353658537,0.43902439,0,0,0.669595941
-2014,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.573170732,0.682926829,1,2,0.988620127
-2014,Houston Rockets,Houston Rockets,Rockets,HOU,1.00376627,13,High,0.548780488,0.707317073,1,1,0.92340072
-2014,Indiana Pacers,Indiana Pacers,Pacers,IND,0.976454835,13,High,0.604938272,0.731707317,1,4,0.851922111
-2014,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.007551919,13,High,0.682926829,0.780487805,5,1,1.008286134
-2014,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.987413468,13,High,0.548780488,0.707317073,4,1,0.996276484
-2014,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.939530179,13,High,0.682926829,0.780487805,2,4,0.934247499
-2014,Miami Heat,Miami Heat,Heat,MIA,1.009234694,13,High,0.804878049,0.902439024,4,16,1.019489796
-2014,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.720574878,10,Low,0.463414634,0.512195122,0,1,0.80328044
-2014,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.767414901,10,Low,0.37804878,0.487804878,0,0,0.860996944
-2014,New Orleans Pelicans,New Orleans Hornets,Pelicans,NOP,0.971719926,13,High,0.329268293,0.390243902,0,0,0
-2014,New York Knicks,New York Knicks,NY Knicks,NYK,1,13,High,0.658536585,0.756097561,2,2,0.960680396
-2014,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.731707317,0.829268293,5,2,1
-2014,Orlando Magic,Orlando Magic,Magic,ORL,0.861986628,11,Slightly Low,0.243902439,0.292682927,0,0,0.933619866
-2014,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.677263405,9,Very Low,0.414634146,0.56097561,0,0,0.816339486
-2014,Phoenix Suns,Phoenix Suns,Suns,PHO,0.929705348,12,Slightly High,0.304878049,0.414634146,0,0,0.904223537
-2014,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.015688493,14,Very High,0.402439024,0.536585366,0,0,1.019957821
-2014,Sacramento Kings,Sacramento Kings,Kings,SAC,0.940751862,13,High,0.341463415,0.487804878,0,0,0.793959693
-2014,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.999837116,13,High,0.707317073,0.853658537,5,8,1.000705831
-2014,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.921818182,12,Slightly High,0.414634146,0.512195122,0,0,0.916363636
-2014,Utah Jazz,Utah Jazz,Jazz,UTA,0.992843876,13,High,0.524390244,0.731707317,0,0,1.02043046
-2014,Washington Wizards,Washington Wizards,Wizards,WAS,0.836411869,11,Slightly Low,0.353658537,0.536585366,0,0,0.802859108
-2013,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.834805166,11,Slightly Low,0.606060606,0.696969697,0,1,0.838889502
-2013,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.590909091,0.727272727,1,4,0.972228023
-2013,Brooklyn Nets,New Jersey Nets,Nets,BKN,0.969264606,13,High,0.333333333,0.272727273,0,0,0
-2013,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.803270955,11,Slightly Low,0.106060606,0.121212121,0,0,0.7735493
-2013,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.045847875,14,Very High,0.757575758,0.787878788,0,1,1.059473156
-2013,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.833264718,11,Slightly Low,0.318181818,0.333333333,0,0,0.819575957
-2013,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.043541667,14,Very High,0.545454545,0.696969697,1,1,1.0590625
-2013,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.912858607,12,Slightly High,0.575757576,0.606060606,0,1,0.872387295
-2013,Detroit Pistons,Detroit Pistons,Pistons,DET,0.669595941,9,Very Low,0.378787879,0.545454545,0,0,0.652880957
-2013,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.988620127,13,High,0.348484848,0.363636364,0,0,0.962288222
-2013,Houston Rockets,Houston Rockets,Rockets,HOU,0.92340072,12,Slightly High,0.515151515,0.666666667,0,0,0.850900028
-2013,Indiana Pacers,Indiana Pacers,Pacers,IND,0.851922111,11,Slightly Low,0.636363636,0.696969697,0,2,0.790492663
-2013,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.008286134,13,High,0.606060606,0.727272727,5,2,1.007919027
-2013,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.621212121,0.787878788,5,2,0.996276484
-2013,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.934247499,12,Slightly High,0.621212121,0.787878788,0,1,0.882544678
-2013,Miami Heat,Miami Heat,Heat,MIA,1.019489796,14,Very High,0.696969697,0.848484848,4,16,1.017091837
-2013,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.80328044,11,Slightly Low,0.46969697,0.515151515,0,0,0.786343965
-2013,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.860996944,11,Slightly Low,0.393939394,0.393939394,2,0,0.921593424
-2013,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,0.818343511,11,Slightly Low,0.318181818,0.333333333,0,0,0.895772811
-2013,New York Knicks,New York Knicks,NY Knicks,NYK,0.960680396,13,High,0.545454545,0.666666667,2,1,0.997526751
-2013,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.712121212,0.787878788,5,8,1
-2013,Orlando Magic,Orlando Magic,Magic,ORL,0.933619866,12,Slightly High,0.560606061,0.636363636,3,1,1.002653083
-2013,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.816339486,11,Slightly Low,0.53030303,0.575757576,0,2,0.854673308
-2013,Phoenix Suns,Phoenix Suns,Suns,PHO,0.904223537,12,Slightly High,0.5,0.575757576,0,0,0.913654736
-2013,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.019957821,14,Very High,0.424242424,0.606060606,0,0,1.054266756
-2013,Sacramento Kings,Sacramento Kings,Kings,SAC,0.793959693,11,Slightly Low,0.333333333,0.484848485,0,0,0.837789455
-2013,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.000705831,13,High,0.757575758,0.848484848,2,4,0.998805516
-2013,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.916363636,12,Slightly High,0.348484848,0.393939394,0,0,0.850252525
-2013,Utah Jazz,Utah Jazz,Jazz,UTA,1.02043046,14,Very High,0.545454545,0.757575758,0,1,1.054626898
-2013,Washington Wizards,Washington Wizards,Wizards,WAS,0.802859108,11,Slightly Low,0.303030303,0.333333333,0,0,0.82177245
-2012,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.838889502,11,Slightly Low,0.536585366,0.585365854,1,2,0.863671487
-2012,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.682926829,0.804878049,0,2,0.972228023
-2012,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.7735493,10,Low,0.414634146,0.512195122,0,0,0.830633747
-2012,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.059473156,14,Very High,0.756097561,0.87804878,3,4,1.041784195
-2012,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.819575957,11,Slightly Low,0.231707317,0.292682927,0,0,1.034993825
-2012,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.0590625,14,Very High,0.695121951,0.707317073,2,16,1.046927083
-2012,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.872387295,12,Slightly High,0.609756098,0.804878049,0,1,0.865829918
-2012,Detroit Pistons,Detroit Pistons,Pistons,DET,0.652880957,9,Very Low,0.365853659,0.512195122,0,0,0.7546657
-2012,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.962288222,13,High,0.43902439,0.634146341,0,0,0.953868136
-2012,Houston Rockets,Houston Rockets,Rockets,HOU,0.850900028,11,Slightly Low,0.524390244,0.609756098,0,0,0.8967599
-2012,Indiana Pacers,Indiana Pacers,Pacers,IND,0.790492663,11,Slightly Low,0.451219512,0.585365854,0,1,0.755342298
-2012,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.007919027,13,High,0.390243902,0.56097561,0,0,0.930459408
-2012,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.695121951,0.731707317,5,2,0.996276484
-2012,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.882544678,12,Slightly High,0.56097561,0.731707317,1,2,0.823311229
-2012,Miami Heat,Miami Heat,Heat,MIA,1.017091837,14,Very High,0.707317073,0.731707317,5,8,1.009081633
-2012,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.786343965,10,Low,0.426829268,0.536585366,0,0,0.823422557
-2012,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.921593424,12,Slightly High,0.207317073,0.292682927,0,0,0.803140478
-2012,New Jersey Nets,New Jersey Nets,Nets,NJN,0.746138635,10,Low,0.292682927,0.463414634,0,0,0.757789536
-2012,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,0.895772811,12,Slightly High,0.56097561,0.682926829,1,1,0.872057864
-2012,New York Knicks,New York Knicks,NY Knicks,NYK,0.997526751,13,High,0.512195122,0.56097561,2,1,0.995760145
-2012,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.670731707,0.731707317,5,4,0.99697852
-2012,Orlando Magic,Orlando Magic,Magic,ORL,1.002653083,13,High,0.634146341,0.707317073,3,1,1.006685769
-2012,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.854673308,11,Slightly Low,0.5,0.634146341,0,1,0.720334017
-2012,Phoenix Suns,Phoenix Suns,Suns,PHO,0.913654736,12,Slightly High,0.487804878,0.56097561,0,0,1.029055123
-2012,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.054266756,14,Very High,0.585365854,0.731707317,1,1,1.054986883
-2012,Sacramento Kings,Sacramento Kings,Kings,SAC,0.837789455,11,Slightly Low,0.292682927,0.268292683,0,0,0.802101981
-2012,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.998805516,13,High,0.743902439,0.87804878,1,1,0.99435335
-2012,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.850252525,11,Slightly Low,0.268292683,0.390243902,0,0,0.836666667
-2012,Utah Jazz,Utah Jazz,Jazz,UTA,1.054626898,14,Very High,0.475609756,0.512195122,0,0,1.065825412
-2012,Washington Wizards,Washington Wizards,Wizards,WAS,0.82177245,11,Slightly Low,0.280487805,0.487804878,0,0,0.824867361
-2011,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.863671487,12,Slightly High,0.646341463,0.829268293,1,2,0.913180263
-2011,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.609756098,0.585365854,0,8,0.948475673
-2011,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.830633747,11,Slightly Low,0.536585366,0.756097561,0,1,0.829480526
-2011,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.041784195,14,Very High,0.5,0.585365854,0,1,0.990820863
-2011,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.034993825,14,Very High,0.743902439,0.853658537,3,2,1.058151503
-2011,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.046927083,14,Very High,0.670731707,0.682926829,2,1,1.041354167
-2011,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.865829918,12,Slightly High,0.646341463,0.829268293,2,1,0.921875
-2011,Detroit Pistons,Detroit Pistons,Pistons,DET,0.7546657,10,Low,0.329268293,0.414634146,0,0,0.849383946
-2011,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.953868136,13,High,0.317073171,0.43902439,0,0,0.919932639
-2011,Houston Rockets,Houston Rockets,Rockets,HOU,0.8967599,12,Slightly High,0.512195122,0.56097561,0,0,0.91542509
-2011,Indiana Pacers,Indiana Pacers,Pacers,IND,0.755342298,10,Low,0.390243902,0.56097561,0,0,0.792389667
-2011,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.930459408,12,Slightly High,0.353658537,0.512195122,0,0,0.857090413
-2011,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.695121951,0.829268293,4,16,0.996276484
-2011,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.823311229,11,Slightly Low,0.487804878,0.56097561,0,0,0.757839721
-2011,Miami Heat,Miami Heat,Heat,MIA,1.009081633,13,High,0.573170732,0.585365854,3,1,0.904591837
-2011,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.823422557,11,Slightly Low,0.56097561,0.682926829,1,1,0.807180638
-2011,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.803140478,11,Slightly Low,0.182926829,0.243902439,0,0,0.795710823
-2011,New Jersey Nets,New Jersey Nets,Nets,NJN,0.757789536,10,Low,0.146341463,0.195121951,0,0,0.700283256
-2011,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,0.872057864,12,Slightly High,0.451219512,0.585365854,0,0,0.897017845
-2011,New York Knicks,New York Knicks,NY Knicks,NYK,0.995760145,13,High,0.353658537,0.43902439,0,0,0.984302443
-2011,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,0.99697852,13,High,0.609756098,0.658536585,3,1,0.9890128
-2011,Orlando Magic,Orlando Magic,Magic,ORL,1.006685769,13,High,0.719512195,0.829268293,3,4,1
-2011,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.720334017,10,Low,0.329268293,0.292682927,0,0,0.694599082
-2011,Phoenix Suns,Phoenix Suns,Suns,PHO,1.029055123,14,Very High,0.658536585,0.780487805,4,4,1.033800012
-2011,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.054986883,14,Very High,0.609756098,0.634146341,1,1,1.054318194
-2011,Sacramento Kings,Sacramento Kings,Kings,SAC,0.802101981,11,Slightly Low,0.304878049,0.43902439,0,0,0.765375065
-2011,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.99435335,13,High,0.609756098,0.707317073,1,2,0.98213704
-2011,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.836666667,11,Slightly Low,0.487804878,0.609756098,0,0,0.903888889
-2011,Utah Jazz,Utah Jazz,Jazz,UTA,1.065825412,14,Very High,0.646341463,0.780487805,2,2,1.058560035
-2011,Washington Wizards,Washington Wizards,Wizards,WAS,0.824867361,11,Slightly Low,0.317073171,0.365853659,0,0,0.796030654
-2010,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.913180263,12,Slightly High,0.573170732,0.756097561,0,2,0.92438459
-2010,Boston Celtics,Boston Celtics,Celtics,BOS,0.948475673,13,High,0.756097561,0.853658537,2,2,0.972228023
-2010,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.829480526,11,Slightly Low,0.426829268,0.56097561,0,0,0.761440478
-2010,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.990820863,13,High,0.5,0.682926829,0,1,1.013386241
-2010,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.804878049,0.951219512,3,4,1.029744751
-2010,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.041354167,14,Very High,0.609756098,0.780487805,3,2,1.043854167
-2010,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.921875,12,Slightly High,0.658536585,0.804878049,1,4,0.88232582
-2010,Detroit Pistons,Detroit Pistons,Pistons,DET,0.849383946,11,Slightly Low,0.475609756,0.512195122,0,1,0.990985686
-2010,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.919932639,12,Slightly High,0.353658537,0.512195122,0,0,0.966625842
-2010,Houston Rockets,Houston Rockets,Rockets,HOU,0.91542509,12,Slightly High,0.646341463,0.804878049,2,2,0.968263639
-2010,Indiana Pacers,Indiana Pacers,Pacers,IND,0.792389667,11,Slightly Low,0.43902439,0.609756098,0,0,0.791273782
-2010,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.857090413,11,Slightly Low,0.231707317,0.268292683,0,0,0.848017621
-2010,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.792682927,0.87804878,4,16,0.996276484
-2010,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.757839721,10,Low,0.292682927,0.390243902,0,0,0.716252669
-2010,Miami Heat,Miami Heat,Heat,MIA,0.904591837,12,Slightly High,0.524390244,0.682926829,3,1,0.93005102
-2010,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.807180638,11,Slightly Low,0.414634146,0.536585366,0,0,0.822193728
-2010,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.795710823,11,Slightly Low,0.292682927,0.268292683,0,0,0.764306039
-2010,New Jersey Nets,New Jersey Nets,Nets,NJN,0.700283256,9,Very Low,0.414634146,0.463414634,0,0,0.798302941
-2010,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,0.897017845,12,Slightly High,0.597560976,0.682926829,2,1,1.005988024
-2010,New York Knicks,New York Knicks,NY Knicks,NYK,0.984302443,13,High,0.390243902,0.487804878,0,0,0.973500909
-2010,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,0.9890128,13,High,0.280487805,0.365853659,0,0,1.02691864
-2010,Orlando Magic,Orlando Magic,Magic,ORL,1,13,High,0.719512195,0.780487805,3,8,0.976060936
-2010,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.694599082,9,Very Low,0.5,0.585365854,0,1,0.771657388
-2010,Phoenix Suns,Phoenix Suns,Suns,PHO,1.033800012,14,Very High,0.56097561,0.682926829,1,0,1.079140062
-2010,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.054318194,14,Very High,0.658536585,0.829268293,2,1,1.055707011
-2010,Sacramento Kings,Sacramento Kings,Kings,SAC,0.765375065,10,Low,0.207317073,0.268292683,0,0,0.725934053
-2010,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.98213704,13,High,0.658536585,0.682926829,3,1,0.991910088
-2010,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.903888889,12,Slightly High,0.402439024,0.43902439,0,0,0.948131313
-2010,Utah Jazz,Utah Jazz,Jazz,UTA,1.058560035,14,Very High,0.585365854,0.804878049,0,1,1.087239157
-2010,Washington Wizards,Washington Wizards,Wizards,WAS,0.796030654,11,Slightly Low,0.231707317,0.317073171,0,0,0.816073885
-2009,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.92438459,12,Slightly High,0.451219512,0.609756098,0,1,0.898553924
-2009,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.804878049,0.853658537,4,16,0.972228023
-2009,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.761440478,10,Low,0.390243902,0.512195122,0,0,0.771452534
-2009,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.013386241,14,Very High,0.402439024,0.487804878,0,0,1.051154563
-2009,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.029744751,14,Very High,0.548780488,0.658536585,3,2,1.053159737
-2009,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.043854167,14,Very High,0.62195122,0.829268293,2,1,1.0565625
-2009,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.88232582,12,Slightly High,0.609756098,0.804878049,0,1,0.88954918
-2009,Detroit Pistons,Detroit Pistons,Pistons,DET,0.990985686,13,High,0.719512195,0.829268293,0,4,1
-2009,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.966625842,13,High,0.585365854,0.658536585,0,0,1.001735048
-2009,Houston Rockets,Houston Rockets,Rockets,HOU,0.968263639,13,High,0.670731707,0.756097561,2,1,0.970589864
-2009,Indiana Pacers,Indiana Pacers,Pacers,IND,0.791273782,11,Slightly Low,0.43902439,0.512195122,0,0,0.681861296
-2009,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.848017621,11,Slightly Low,0.280487805,0.317073171,0,0,0.885672331
-2009,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.695121951,0.731707317,3,8,0.996276484
-2009,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.716252669,10,Low,0.268292683,0.341463415,0,0,0.717657637
-2009,Miami Heat,Miami Heat,Heat,MIA,0.93005102,12,Slightly High,0.182926829,0.219512195,0,0,0.993010204
-2009,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.822193728,11,Slightly Low,0.317073171,0.463414634,0,0,0.833199765
-2009,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.764306039,10,Low,0.268292683,0.365853659,0,0,0.762777953
-2009,New Jersey Nets,New Jersey Nets,Nets,NJN,0.798302941,11,Slightly Low,0.414634146,0.512195122,0,0,0.825129124
-2009,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,1.005988024,13,High,0.682926829,0.731707317,3,2,0.840754135
-2009,New York Knicks,New York Knicks,NY Knicks,NYK,0.973500909,13,High,0.280487805,0.365853659,0,0,0.964819301
-2009,Oklahoma City Thunder,Seattle SuperSonics,Thunder,OKC,1.02691864,14,Very High,0.243902439,0.317073171,0,0,0
-2009,Orlando Magic,Orlando Magic,Magic,ORL,0.976060936,13,High,0.634146341,0.609756098,3,2,0.990836722
-2009,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.771657388,10,Low,0.487804878,0.536585366,0,1,0.726145131
-2009,Phoenix Suns,Phoenix Suns,Suns,PHO,1.079140062,14,Very High,0.670731707,0.731707317,4,1,1.079140062
-2009,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.055707011,14,Very High,0.5,0.682926829,0,0,1.005606707
-2009,Sacramento Kings,Sacramento Kings,Kings,SAC,0.725934053,10,Low,0.463414634,0.634146341,0,0,0.817116129
-2009,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.991910088,13,High,0.682926829,0.829268293,3,4,1.007927028
-2009,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.948131313,13,High,0.5,0.609756098,0,1,0.981565657
-2009,Utah Jazz,Utah Jazz,Jazz,UTA,1.087239157,14,Very High,0.658536585,0.902439024,3,2,1.087457664
-2009,Washington Wizards,Washington Wizards,Wizards,WAS,0.816073885,11,Slightly Low,0.524390244,0.609756098,0,1,0.882393398
-2008,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.898553924,12,Slightly High,0.365853659,0.43902439,0,0,0.860691025
-2008,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.292682927,0.292682927,0,0,0.879254542
-2008,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.771452534,10,Low,0.402439024,0.487804878,0,0,0.815065262
-2008,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.051154563,14,Very High,0.597560976,0.756097561,0,2,1.063823684
-2008,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.053159737,14,Very High,0.609756098,0.731707317,2,8,1.051667353
-2008,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.0565625,14,Very High,0.817073171,0.87804878,3,1,1.059947917
-2008,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.88954918,12,Slightly High,0.548780488,0.56097561,1,1,0.882684426
-2008,Detroit Pistons,Detroit Pistons,Pistons,DET,1,13,High,0.646341463,0.634146341,1,4,1
-2008,Golden State Warriors,Golden State Warriors,Warriors,GSW,1.001735048,13,High,0.512195122,0.731707317,0,2,0.923862013
-2008,Houston Rockets,Houston Rockets,Rockets,HOU,0.970589864,13,High,0.634146341,0.682926829,4,1,0.916366657
-2008,Indiana Pacers,Indiana Pacers,Pacers,IND,0.681861296,9,Very Low,0.426829268,0.536585366,0,0,0.856943592
-2008,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.885672331,12,Slightly High,0.487804878,0.609756098,0,0,0.966068806
-2008,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.512195122,0.609756098,3,1,0.995647158
-2008,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.717657637,10,Low,0.268292683,0.341463415,0,0,0.823536023
-2008,Miami Heat,Miami Heat,Heat,MIA,0.993010204,13,High,0.536585366,0.658536585,1,1,1.006122449
-2008,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.833199765,11,Slightly Low,0.341463415,0.43902439,0,0,0.864775338
-2008,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.762777953,10,Low,0.390243902,0.487804878,1,0,0.842976078
-2008,New Jersey Nets,New Jersey Nets,Nets,NJN,0.825129124,11,Slightly Low,0.5,0.585365854,0,2,0.892010119
-2008,New Orleans Hornets,New Orleans/Oklahoma City Hornets,Pelicans,NOH,0.840754135,11,Slightly Low,0.475609756,0.585365854,0,0,0
-2008,New York Knicks,New York Knicks,NY Knicks,NYK,0.964819301,13,High,0.402439024,0.463414634,0,0,0.949172219
-2008,Orlando Magic,Orlando Magic,Magic,ORL,0.990836722,13,High,0.487804878,0.609756098,1,1,0.978981731
-2008,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.726145131,10,Low,0.426829268,0.512195122,0,0,0.724826643
-2008,Phoenix Suns,Phoenix Suns,Suns,PHO,1.079140062,14,Very High,0.743902439,0.804878049,6,2,1.079140062
-2008,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.005606707,13,High,0.390243902,0.43902439,0,0,0.841520498
-2008,Sacramento Kings,Sacramento Kings,Kings,SAC,0.817116129,11,Slightly Low,0.402439024,0.487804878,0,0,1
-2008,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.007927028,13,High,0.707317073,0.756097561,3,16,1.012813552
-2008,Seattle SuperSonics,Seattle SuperSonics,Thunder,SEA,0.733670274,10,Low,0.37804878,0.487804878,0,0,0.876503873
-2008,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.981565657,13,High,0.573170732,0.731707317,2,1,0.922121212
-2008,Utah Jazz,Utah Jazz,Jazz,UTA,1.087457664,14,Very High,0.62195122,0.756097561,0,4,1.068829892
-2008,Washington Wizards,Washington Wizards,Wizards,WAS,0.882393398,12,Slightly High,0.5,0.634146341,2,1,0.902534879
-2007,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.860691025,11,Slightly Low,0.317073171,0.43902439,0,0,0.831824705
-2007,Boston Celtics,Boston Celtics,Celtics,BOS,0.879254542,12,Slightly High,0.402439024,0.512195122,0,0,0.882177908
-2007,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.815065262,11,Slightly Low,0.317073171,0.414634146,0,0,0.857891702
-2007,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.063823684,14,Very High,0.5,0.512195122,0,1,1.012955969
-2007,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.051667353,14,Very High,0.609756098,0.756097561,3,2,0.99454508
-2007,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.059947917,14,Very High,0.731707317,0.829268293,3,8,1.047604167
-2007,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.882684426,12,Slightly High,0.536585366,0.634146341,1,1,0.877920082
-2007,Detroit Pistons,Detroit Pistons,Pistons,DET,1,13,High,0.780487805,0.902439024,4,4,1
-2007,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.923862013,12,Slightly High,0.414634146,0.512195122,0,0,0.932435191
-2007,Houston Rockets,Houston Rockets,Rockets,HOU,0.916366657,12,Slightly High,0.414634146,0.365853659,1,0,0.859263362
-2007,Indiana Pacers,Indiana Pacers,Pacers,IND,0.856943592,11,Slightly Low,0.5,0.658536585,0,1,0.902694861
-2007,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.966068806,13,High,0.573170732,0.658536585,2,2,0.911212503
-2007,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.995647158,13,High,0.548780488,0.658536585,3,1,0.990245437
-2007,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.823536023,11,Slightly Low,0.597560976,0.731707317,0,1,0.887546364
-2007,Miami Heat,Miami Heat,Heat,MIA,1.006122449,13,High,0.634146341,0.756097561,5,16,1.018061224
-2007,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.864775338,12,Slightly High,0.487804878,0.609756098,0,1,0.887802532
-2007,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.842976078,11,Slightly Low,0.402439024,0.585365854,0,0,0.850985351
-2007,New Jersey Nets,New Jersey Nets,Nets,NJN,0.892010119,12,Slightly High,0.597560976,0.707317073,0,2,0.888900601
-2007,New Orleans/Oklahoma City Hornets,New Orleans/Oklahoma City Hornets,Pelicans,NOK,1.057271595,14,Very High,0.463414634,0.585365854,0,0,1.077132863
-2007,New York Knicks,New York Knicks,NY Knicks,NYK,0.949172219,13,High,0.280487805,0.365853659,0,0,0.955532001
-2007,Orlando Magic,Orlando Magic,Magic,ORL,0.978981731,13,High,0.43902439,0.634146341,0,0,0.891186072
-2007,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.724826643,10,Low,0.463414634,0.56097561,1,0,0.80662174
-2007,Phoenix Suns,Phoenix Suns,Suns,PHO,1.079140062,14,Very High,0.658536585,0.756097561,4,4,1.043231211
-2007,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.841520498,11,Slightly Low,0.256097561,0.365853659,0,0,0.774085695
-2007,Sacramento Kings,Sacramento Kings,Kings,SAC,1,13,High,0.536585366,0.658536585,0,1,1
-2007,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.012813552,14,Very High,0.768292683,0.829268293,2,2,1.020577696
-2007,Seattle SuperSonics,Seattle SuperSonics,Thunder,SEA,0.876503873,12,Slightly High,0.426829268,0.536585366,0,0,0.889853321
-2007,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.922121212,12,Slightly High,0.329268293,0.365853659,0,0,0.861414141
-2007,Utah Jazz,Utah Jazz,Jazz,UTA,1.068829892,14,Very High,0.5,0.536585366,0,0,1.001420299
-2007,Washington Wizards,Washington Wizards,Wizards,WAS,0.902534879,12,Slightly High,0.512195122,0.658536585,1,1,0.844763215
-2006,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.831824705,11,Slightly Low,0.158536585,0.219512195,0,0,0
-2006,Boston Celtics,Boston Celtics,Celtics,BOS,0.882177908,12,Slightly High,0.548780488,0.658536585,0,1,0
-2006,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.857891702,11,Slightly Low,0.219512195,0.341463415,0,0,0
-2006,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.012955969,14,Very High,0.573170732,0.658536585,0,1,0
-2006,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.99454508,13,High,0.512195122,0.707317073,2,0,0
-2006,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.047604167,14,Very High,0.707317073,0.707317073,3,2,0
-2006,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.877920082,12,Slightly High,0.597560976,0.756097561,0,1,0
-2006,Detroit Pistons,Detroit Pistons,Pistons,DET,1,13,High,0.658536585,0.780487805,1,8,0
-2006,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.932435191,12,Slightly High,0.414634146,0.487804878,0,0,0
-2006,Houston Rockets,Houston Rockets,Rockets,HOU,0.859263362,11,Slightly Low,0.62195122,0.634146341,1,1,0
-2006,Indiana Pacers,Indiana Pacers,Pacers,IND,0.902694861,12,Slightly High,0.536585366,0.609756098,0,2,0
-2006,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.911212503,12,Slightly High,0.451219512,0.658536585,0,0,0
-2006,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.990245437,13,High,0.414634146,0.536585366,1,0,0
-2006,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.887546364,12,Slightly High,0.548780488,0.634146341,0,1,0
-2006,Miami Heat,Miami Heat,Heat,MIA,1.018061224,14,Very High,0.719512195,0.853658537,5,4,0
-2006,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.887802532,12,Slightly High,0.365853659,0.56097561,0,0,0
-2006,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.850985351,11,Slightly Low,0.536585366,0.585365854,2,0,0
-2006,New Jersey Nets,New Jersey Nets,Nets,NJN,0.888900601,12,Slightly High,0.512195122,0.585365854,0,1,0
-2006,New Orleans/Oklahoma City Hornets,New Orleans Hornets,Pelicans,NOK,1.077132863,14,Very High,0.219512195,0.268292683,0,0,0
-2006,New York Knicks,New York Knicks,NY Knicks,NYK,0.955532001,13,High,0.402439024,0.536585366,0,0,0
-2006,Orlando Magic,Orlando Magic,Magic,ORL,0.891186072,12,Slightly High,0.43902439,0.585365854,0,0,0
-2006,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.80662174,11,Slightly Low,0.524390244,0.609756098,3,1,0
-2006,Phoenix Suns,Phoenix Suns,Suns,PHO,1.043231211,14,Very High,0.756097561,0.756097561,6,4,0
-2006,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.774085695,10,Low,0.329268293,0.43902439,0,0,0
-2006,Sacramento Kings,Sacramento Kings,Kings,SAC,1,13,High,0.609756098,0.731707317,0,1,0
-2006,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.020577696,14,Very High,0.719512195,0.926829268,3,16,0
-2006,Seattle SuperSonics,Seattle SuperSonics,Thunder,SEA,0.889853321,12,Slightly High,0.634146341,0.634146341,2,2,0
-2006,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.861414141,11,Slightly Low,0.402439024,0.536585366,0,0,0
-2006,Utah Jazz,Utah Jazz,Jazz,UTA,1.001420299,13,High,0.317073171,0.43902439,0,0,0
-2006,Washington Wizards,Washington Wizards,Wizards,WAS,0.844763215,11,Slightly Low,0.548780488,0.707317073,1,2,0
+﻿YEAR,Team,Prev Name,Nickname,Abbrev,Attendance,Num,Class,Prev W%,Prev Home W%,Prev All-NBA points,Prev playoff points,Prev attendance,Prev LW attendance
+2022,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.905618722,12,Slightly High,0.569444444,0.694444444,0,4,0.885417817,0.124515443
+2022,Boston Celtics,Boston Celtics,Celtics,BOS,1,13,High,0.5,0.583333333,0,1,0.996502401,0.124515443
+2022,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.978682608,13,High,0.666666667,0.777777778,0,2,0.925050756,0.124515443
+2022,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.895895581,12,Slightly High,0.458333333,0.5,0,0,0.809246737,0.124515443
+2022,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.998278912,13,High,0.430555556,0.416666667,0,0,0.89898169,0.124515443
+2022,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.951677645,13,High,0.305555556,0.361111111,0,0,0.916838205,0.124515443
+2022,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.028072917,14,Very High,0.583333333,0.583333333,3,1,1.04484375,0.124515443
+2022,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.86869877,12,Slightly High,0.652777778,0.694444444,3,2,0.982889344,0.124515443
+2022,Detroit Pistons,Detroit Pistons,Pistons,DET,0.795986622,11,Slightly Low,0.277777778,0.361111111,0,0,0.759295692,0.124515443
+2022,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.541666667,0.694444444,3,0,1,0.124515443
+2022,Houston Rockets,Houston Rockets,Rockets,HOU,0.863140404,12,Slightly High,0.236111111,0.25,0,0,1.001163113,0.124515443
+2022,Indiana Pacers,Indiana Pacers,Pacers,IND,0.801149361,11,Slightly Low,0.472222222,0.361111111,0,0,0.922334431,0.124515443
+2022,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.887665198,12,Slightly High,0.652777778,0.722222222,4,4,1,0.124515443
+2022,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.978026012,13,High,0.583333333,0.583333333,2,1,0.996276484,0.124515443
+2022,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.886534787,12,Slightly High,0.527777778,0.5,0,1,0.891143082,0.124515443
+2022,Miami Heat,Miami Heat,Heat,MIA,1.001428571,13,High,0.555555556,0.583333333,1,1,1.004081633,0.124515443
+2022,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.997314286,13,High,0.638888889,0.722222222,3,16,1.012,0.124515443
+2022,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.844556855,11,Slightly Low,0.319444444,0.361111111,0,0,0.793866582,0.124515443
+2022,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.919547045,12,Slightly High,0.430555556,0.5,0,0,0.978537974,0.124515443
+2022,New York Knicks,New York Knicks,NY Knicks,NYK,0.939884918,13,High,0.569444444,0.694444444,2,1,0.949475066,0.124515443
+2022,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,0.817282865,11,Slightly Low,0.305555556,0.277777778,0,0,1,0.124515443
+2022,Orlando Magic,Orlando Magic,Magic,ORL,0.806112703,11,Slightly Low,0.291666667,0.305555556,0,0,0.906929852,0.124515443
+2022,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,1.008643422,13,High,0.680555556,0.805555556,2,2,1.007324934,0.124515443
+2022,Phoenix Suns,Phoenix Suns,Suns,PHO,0.970476246,13,High,0.708333333,0.75,2,8,0.921562884,0.124515443
+2022,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.885191091,12,Slightly High,0.583333333,0.555555556,2,1,1.009876035,0.124515443
+2022,Sacramento Kings,Sacramento Kings,Kings,SAC,0.821190923,11,Slightly Low,0.430555556,0.444444444,0,0,0.955183985,0.124515443
+2022,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.815180801,11,Slightly Low,0.458333333,0.388888889,0,0,0.99630796,0.124515443
+2022,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.953181818,13,High,0.375,0.444444444,0,0,0.999747475,0.124515443
+2022,Utah Jazz,Utah Jazz,Jazz,UTA,1,13,High,0.722222222,0.861111111,1,2,1,0.124515443
+2022,Washington Wizards,Washington Wizards,Wizards,WAS,0.763460405,10,Low,0.472222222,0.527777778,1,1,0.817744154,0.124515443
+2020,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.885417817,12,Slightly High,0.353658537,0.414634146,0,0,0.8459543,0.945868185
+2020,Boston Celtics,Boston Celtics,Celtics,BOS,0.996502401,13,High,0.597560976,0.682926829,2,2,0.972228023,0.945868185
+2020,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.925050756,12,Slightly High,0.512195122,0.56097561,0,1,0.842600947,0.945868185
+2020,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.809246737,11,Slightly Low,0.475609756,0.609756098,0,0,0.864968286,0.945868185
+2020,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.89898169,12,Slightly High,0.268292683,0.219512195,0,0,0.960175933,0.945868185
+2020,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.916838205,12,Slightly High,0.231707317,0.317073171,0,0,0.995728695,0.945868185
+2020,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.04484375,14,Very High,0.402439024,0.585365854,0,0,1.04234375,0.945868185
+2020,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.982889344,13,High,0.658536585,0.829268293,3,2,0.945184426,0.945868185
+2020,Detroit Pistons,Detroit Pistons,Pistons,DET,0.759295692,10,Low,0.5,0.634146341,1,1,0.810840055,0.945868185
+2020,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.695121951,0.731707317,5,8,1,0.945868185
+2020,Houston Rockets,Houston Rockets,Rockets,HOU,1.001163113,13,High,0.646341463,0.756097561,3,2,1.000166159,0.945868185
+2020,Indiana Pacers,Indiana Pacers,Pacers,IND,0.922334431,12,Slightly High,0.585365854,0.707317073,0,1,0.938012609,0.945868185
+2020,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1,13,High,0.585365854,0.634146341,0,1,0.908590308,0.945868185
+2020,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.451219512,0.536585366,1,0,0.996276484,0.945868185
+2020,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.891143082,12,Slightly High,0.402439024,0.512195122,0,0,0.875463639,0.945868185
+2020,Miami Heat,Miami Heat,Heat,MIA,1.004081633,13,High,0.475609756,0.463414634,0,0,1.002040816,0.945868185
+2020,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,1.012,13,High,0.731707317,0.804878049,3,4,1.005828571,0.945868185
+2020,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.793866582,11,Slightly Low,0.43902439,0.609756098,0,0,0.806460112,0.945868185
+2020,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.978537974,13,High,0.402439024,0.463414634,0,0,0.948835003,0.945868185
+2020,New York Knicks,New York Knicks,NY Knicks,NYK,0.949475066,13,High,0.207317073,0.219512195,0,0,0.959115687,0.945868185
+2020,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.597560976,0.658536585,4,1,1,0.945868185
+2020,Orlando Magic,Orlando Magic,Magic,ORL,0.906929852,12,Slightly High,0.512195122,0.609756098,0,1,0.93181577,0.945868185
+2020,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,1.007324934,13,High,0.62195122,0.756097561,2,2,0.998193183,0.945868185
+2020,Phoenix Suns,Phoenix Suns,Suns,PHO,0.921562884,12,Slightly High,0.231707317,0.292682927,0,0,0.895846758,0.945868185
+2020,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.009876035,13,High,0.646341463,0.780487805,2,4,1.002829073,0.945868185
+2020,Sacramento Kings,Sacramento Kings,Kings,SAC,0.955183985,13,High,0.475609756,0.585365854,0,0,0.972302792,0.945868185
+2020,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.99630796,13,High,0.585365854,0.780487805,0,1,0.993973287,0.945868185
+2020,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.999747475,13,High,0.707317073,0.780487805,2,16,1.001212121,0.945868185
+2020,Utah Jazz,Utah Jazz,Jazz,UTA,1,13,High,0.609756098,0.707317073,1,1,1,0.945868185
+2020,Washington Wizards,Washington Wizards,Wizards,WAS,0.817744154,11,Slightly Low,0.390243902,0.536585366,0,0,0.859058754,0.945868185
+2019,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.8459543,11,Slightly Low,0.292682927,0.390243902,0,0,0.795286455,0.950719049
+2019,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.670731707,0.658536585,0,4,0.972228023,0.950719049
+2019,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.842600947,11,Slightly Low,0.341463415,0.365853659,0,0,0.877284006,0.950719049
+2019,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.864968286,12,Slightly High,0.43902439,0.512195122,0,0,0.858363474,0.950719049
+2019,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.960175933,13,High,0.329268293,0.414634146,0,0,0.993259072,0.950719049
+2019,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.995728695,13,High,0.609756098,0.707317073,3,8,1.058151503,0.950719049
+2019,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.04234375,14,Very High,0.292682927,0.365853659,0,0,1.03078125,0.950719049
+2019,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.945184426,13,High,0.56097561,0.756097561,0,0,0.878125,0.950719049
+2019,Detroit Pistons,Detroit Pistons,Pistons,DET,0.810840055,11,Slightly Low,0.475609756,0.609756098,0,0,0.856433209,0.950719049
+2019,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.707317073,0.707317073,4,16,1,0.950719049
+2019,Houston Rockets,Houston Rockets,Rockets,HOU,1.000166159,13,High,0.792682927,0.829268293,3,4,0.99141512,0.950719049
+2019,Indiana Pacers,Indiana Pacers,Pacers,IND,0.938012609,13,High,0.585365854,0.658536585,1,1,0.8955532,0.950719049
+2019,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.908590308,12,Slightly High,0.512195122,0.536585366,0,0,0.89254248,0.950719049
+2019,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.426829268,0.487804878,0,0,0.992972519,0.950719049
+2019,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.875463639,12,Slightly High,0.268292683,0.390243902,0,0,0.896200967,0.950719049
+2019,Miami Heat,Miami Heat,Heat,MIA,1.002040816,13,High,0.536585366,0.634146341,0,1,1.001581633,0.950719049
+2019,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,1.005828571,13,High,0.536585366,0.609756098,2,1,0.892984987,0.950719049
+2019,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.806460112,11,Slightly Low,0.573170732,0.731707317,2,1,0.898724839,0.950719049
+2019,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.948835003,13,High,0.585365854,0.585365854,3,2,0.974506433,0.950719049
+2019,New York Knicks,New York Knicks,NY Knicks,NYK,0.959115687,13,High,0.353658537,0.463414634,0,0,0.975721785,0.950719049
+2019,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.585365854,0.658536585,3,1,1,0.950719049
+2019,Orlando Magic,Orlando Magic,Magic,ORL,0.93181577,12,Slightly High,0.304878049,0.414634146,0,0,0.94943224,0.950719049
+2019,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.998193183,13,High,0.634146341,0.731707317,2,2,0.992723899,0.950719049
+2019,Phoenix Suns,Phoenix Suns,Suns,PHO,0.895846758,12,Slightly High,0.256097561,0.243902439,0,0,0.98799133,0.950719049
+2019,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.002829073,13,High,0.597560976,0.682926829,3,1,0.99778818,0.950719049
+2019,Sacramento Kings,Sacramento Kings,Kings,SAC,0.972302792,13,High,0.329268293,0.341463415,0,0,0.998407553,0.950719049
+2019,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.993973287,13,High,0.573170732,0.804878049,2,1,0.999185579,0.950719049
+2019,Toronto Raptors,Toronto Raptors,Raptors,TOR,1.001212121,13,High,0.719512195,0.829268293,2,2,1.001969697,0.950719049
+2019,Utah Jazz,Utah Jazz,Jazz,UTA,1,13,High,0.585365854,0.682926829,0,2,0.979023271,0.950719049
+2019,Washington Wizards,Washington Wizards,Wizards,WAS,0.859058754,11,Slightly Low,0.524390244,0.56097561,0,1,0.882933779,0.950719049
+2018,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.795286455,11,Slightly Low,0.524390244,0.56097561,0,1,0.880781543,0.944036597
+2018,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.646341463,0.731707317,2,4,0.968521612,0.944036597
+2018,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.877284006,12,Slightly High,0.243902439,0.317073171,0,0,0.870121814,0.944036597
+2018,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.858363474,11,Slightly Low,0.43902439,0.536585366,0,0,0.908528595,0.944036597
+2018,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.993259072,13,High,0.5,0.609756098,1,1,1.036477506,0.944036597
+2018,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.62195122,0.756097561,3,8,1.058151503,0.944036597
+2018,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.03078125,14,Very High,0.402439024,0.512195122,0,0,1.030677083,0.944036597
+2018,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.878125,12,Slightly High,0.487804878,0.536585366,0,0,0.756659836,0.944036597
+2018,Detroit Pistons,Detroit Pistons,Pistons,DET,0.856433209,11,Slightly Low,0.451219512,0.585365854,0,0,0.723817721,0.944036597
+2018,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.817073171,0.87804878,5,16,1,0.944036597
+2018,Houston Rockets,Houston Rockets,Rockets,HOU,0.99141512,13,High,0.670731707,0.731707317,3,2,0.940072002,0.944036597
+2018,Indiana Pacers,Indiana Pacers,Pacers,IND,0.8955532,12,Slightly High,0.512195122,0.707317073,0,1,0.931596273,0.944036597
+2018,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.89254248,12,Slightly High,0.62195122,0.707317073,1,1,1.001048878,0.944036597
+2018,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.992972519,13,High,0.317073171,0.414634146,0,0,0.993759178,0.944036597
+2018,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.896200967,12,Slightly High,0.524390244,0.585365854,0,1,0.928346634,0.944036597
+2018,Miami Heat,Miami Heat,Heat,MIA,1.001581633,13,High,0.5,0.56097561,0,0,1.002193878,0.944036597
+2018,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.892984987,12,Slightly High,0.512195122,0.56097561,2,1,0.845648341,0.944036597
+2018,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.898724839,12,Slightly High,0.37804878,0.487804878,0,0,0.780324586,0.944036597
+2018,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.974506433,13,High,0.414634146,0.512195122,3,0,0.958854568,0.944036597
+2018,New York Knicks,New York Knicks,NY Knicks,NYK,0.975721785,13,High,0.37804878,0.463414634,0,0,0.998081971,0.944036597
+2018,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.573170732,0.682926829,3,1,1,0.944036597
+2018,Orlando Magic,Orlando Magic,Magic,ORL,0.94943224,13,High,0.353658537,0.390243902,0,0,0.942003608,0.944036597
+2018,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.992723899,13,High,0.341463415,0.414634146,0,0,0.84627405,0.944036597
+2018,Phoenix Suns,Phoenix Suns,Suns,PHO,0.98799133,13,High,0.292682927,0.365853659,0,0,1.012418722,0.944036597
+2018,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.99778818,13,High,0.5,0.609756098,0,1,0.993621727,0.944036597
+2018,Sacramento Kings,Sacramento Kings,Kings,SAC,0.998407553,13,High,0.390243902,0.414634146,0,0,1.001421828,0.944036597
+2018,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.999185579,13,High,0.743902439,0.756097561,3,4,1.000271474,0.944036597
+2018,Toronto Raptors,Toronto Raptors,Raptors,TOR,1.001969697,13,High,0.62195122,0.682926829,1,2,1.001515152,0.944036597
+2018,Utah Jazz,Utah Jazz,Jazz,UTA,0.979023271,13,High,0.62195122,0.707317073,2,2,1.07467497,0.944036597
+2018,Washington Wizards,Washington Wizards,Wizards,WAS,0.882933779,12,Slightly High,0.597560976,0.731707317,1,2,0.835232855,0.944036597
+2017,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.880781543,12,Slightly High,0.585365854,0.658536585,0,2,0.929020863,0.942960776
+2017,Boston Celtics,Boston Celtics,Celtics,BOS,0.968521612,13,High,0.585365854,0.682926829,0,1,0.953748173,0.942960776
+2017,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.870121814,12,Slightly High,0.256097561,0.341463415,0,0,0.852977667,0.942960776
+2017,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.908528595,12,Slightly High,0.585365854,0.731707317,0,1,0.916548724,0.942960776
+2017,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.036477506,14,Very High,0.512195122,0.634146341,0,0,1.043170627,0.942960776
+2017,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.695121951,0.804878049,3,16,1.058151503,0.942960776
+2017,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.030677083,14,Very High,0.512195122,0.56097561,0,1,1.049114583,0.942960776
+2017,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.756659836,10,Low,0.402439024,0.43902439,0,0,0.722079918,0.942960776
+2017,Detroit Pistons,Detroit Pistons,Pistons,DET,0.723817721,10,Low,0.536585366,0.634146341,1,1,0.748097481,0.942960776
+2017,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.890243902,0.951219512,6,8,1,0.942960776
+2017,Houston Rockets,Houston Rockets,Rockets,HOU,0.940072002,13,High,0.5,0.56097561,0,1,0.995901412,0.942960776
+2017,Indiana Pacers,Indiana Pacers,Pacers,IND,0.931596273,12,Slightly High,0.548780488,0.634146341,1,1,0.939965408,0.942960776
+2017,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.001048878,13,High,0.646341463,0.707317073,5,1,1.006503042,0.942960776
+2017,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.993759178,13,High,0.207317073,0.292682927,0,0,0.996276484,0.942960776
+2017,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.928346634,12,Slightly High,0.512195122,0.634146341,0,1,0.938350006,0.942960776
+2017,Miami Heat,Miami Heat,Heat,MIA,1.002193878,13,High,0.585365854,0.682926829,0,2,1.007142857,0.942960776
+2017,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.845648341,11,Slightly Low,0.402439024,0.56097561,0,0,0.810279425,0.942960776
+2017,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.780324586,10,Low,0.353658537,0.341463415,0,0,0.746917483,0.942960776
+2017,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.958854568,13,High,0.365853659,0.512195122,0,0,0.995612735,0.942960776
+2017,New York Knicks,New York Knicks,NY Knicks,NYK,0.998081971,13,High,0.390243902,0.43902439,0,0,1,0.942960776
+2017,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.670731707,0.780487805,5,4,1,0.942960776
+2017,Orlando Magic,Orlando Magic,Magic,ORL,0.942003608,13,High,0.426829268,0.56097561,0,0,0.93086066,0.942960776
+2017,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.84627405,11,Slightly Low,0.12195122,0.170731707,0,0,0.726682293,0.942960776
+2017,Phoenix Suns,Phoenix Suns,Suns,PHO,1.012418722,13,High,0.280487805,0.341463415,0,0,1.00210884,0.942960776
+2017,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.993621727,13,High,0.536585366,0.682926829,2,2,0.996193611,0.942960776
+2017,Sacramento Kings,Sacramento Kings,Kings,SAC,1.001421828,13,High,0.402439024,0.43902439,2,0,0.99647745,0.942960776
+2017,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.000271474,13,High,0.817073171,0.975609756,4,2,1.001683136,0.942960776
+2017,Toronto Raptors,Toronto Raptors,Raptors,TOR,1.001515152,13,High,0.682926829,0.780487805,1,4,1.001262626,0.942960776
+2017,Utah Jazz,Utah Jazz,Jazz,UTA,1.07467497,14,Very High,0.487804878,0.585365854,0,0,1.054517644,0.942960776
+2017,Washington Wizards,Washington Wizards,Wizards,WAS,0.835232855,11,Slightly Low,0.5,0.536585366,0,0,0.869178621,0.942960776
+2016,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.929020863,12,Slightly High,0.731707317,0.853658537,0,4,0.961033227,0.941442545
+2016,Boston Celtics,Boston Celtics,Celtics,BOS,0.953748173,13,High,0.487804878,0.512195122,0,1,0.918406766,0.941442545
+2016,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.852977667,11,Slightly Low,0.463414634,0.463414634,0,1,0.960805324,0.941442545
+2016,Charlotte Hornets,Charlotte Hornets,Hornets,CHA,0.916548724,12,Slightly High,0.402439024,0.463414634,0,0,0.901189915,0.941442545
+2016,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.043170627,14,Very High,0.609756098,0.658536585,2,2,1.020366209,0.941442545
+2016,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.646341463,0.756097561,4,8,1.058151503,0.941442545
+2016,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.049114583,14,Very High,0.609756098,0.658536585,0,1,1.05140625,0.941442545
+2016,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.722079918,10,Low,0.365853659,0.463414634,0,0,0.75307377,0.941442545
+2016,Detroit Pistons,Detroit Pistons,Pistons,DET,0.748097481,10,Low,0.390243902,0.43902439,0,0,0.691520203,0.941442545
+2016,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.817073171,0.951219512,4,16,1,0.941442545
+2016,Houston Rockets,Houston Rockets,Rockets,HOU,0.995901412,13,High,0.682926829,0.731707317,3,4,1.00963722,0.941442545
+2016,Indiana Pacers,Indiana Pacers,Pacers,IND,0.939965408,13,High,0.463414634,0.56097561,0,0,0.94091391,0.941442545
+2016,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.006503042,13,High,0.682926829,0.731707317,4,2,1.005244389,0.941442545
+2016,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.256097561,0.292682927,0,0,0.982641074,0.941442545
+2016,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.938350006,13,High,0.670731707,0.756097561,3,2,0.973867596,0.941442545
+2016,Miami Heat,Miami Heat,Heat,MIA,1.007142857,13,High,0.451219512,0.487804878,0,0,1.005714286,0.941442545
+2016,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.810279425,11,Slightly Low,0.5,0.56097561,0,1,0.796441737,0.941442545
+2016,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.746917483,10,Low,0.195121951,0.219512195,0,0,0.765517968,0.941442545
+2016,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.995612735,13,High,0.548780488,0.682926829,3,1,0.9887354,0.941442545
+2016,New York Knicks,New York Knicks,NY Knicks,NYK,1,13,High,0.207317073,0.243902439,0,0,1,0.941442545
+2016,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.548780488,0.707317073,2,0,1,0.941442545
+2016,Orlando Magic,Orlando Magic,Magic,ORL,0.93086066,12,Slightly High,0.304878049,0.317073171,0,0,0.890639924,0.941442545
+2016,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.726682293,10,Low,0.219512195,0.292682927,0,0,0.68073054,0.941442545
+2016,Phoenix Suns,Phoenix Suns,Suns,PHO,1.00210884,13,High,0.475609756,0.536585366,0,0,0.991330326,0.941442545
+2016,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.996193611,13,High,0.62195122,0.780487805,2,1,1.005812458,0.941442545
+2016,Sacramento Kings,Sacramento Kings,Kings,SAC,0.99647745,13,High,0.353658537,0.43902439,2,0,0.957787146,0.941442545
+2016,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.001683136,13,High,0.670731707,0.804878049,1,1,1.010207406,0.941442545
+2016,Toronto Raptors,Toronto Raptors,Raptors,TOR,1.001262626,13,High,0.597560976,0.658536585,0,1,0.997525253,0.941442545
+2016,Utah Jazz,Utah Jazz,Jazz,UTA,1.054517644,14,Very High,0.463414634,0.512195122,0,0,1.028624495,0.941442545
+2016,Washington Wizards,Washington Wizards,Wizards,WAS,0.869178621,12,Slightly High,0.56097561,0.707317073,0,2,0.895952053,0.941442545
+2015,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.961033227,13,High,0.463414634,0.585365854,0,1,0.791422894,0.919913547
+2015,Boston Celtics,Boston Celtics,Celtics,BOS,0.918406766,12,Slightly High,0.304878049,0.390243902,0,0,0.94523909,0.919913547
+2015,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.960805324,13,High,0.536585366,0.682926829,0,2,0.9728739,0.919913547
+2015,Charlotte Hornets,Charlotte Bobcats,Hornets,CHA,0.901189915,12,Slightly High,0.524390244,0.609756098,1,1,0.813440268,0.919913547
+2015,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.020366209,14,Very High,0.585365854,0.658536585,3,1,1.038198594,0.919913547
+2015,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.402439024,0.463414634,0,0,0.891776451,0.919913547
+2015,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.05140625,14,Very High,0.597560976,0.634146341,0,1,1.0390625,0.919913547
+2015,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.75307377,10,Low,0.43902439,0.536585366,0,0,0.865727459,0.919913547
+2015,Detroit Pistons,Detroit Pistons,Pistons,DET,0.691520203,9,Very Low,0.353658537,0.414634146,0,0,0.679697409,0.919913547
+2015,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.62195122,0.658536585,2,1,1,0.919913547
+2015,Houston Rockets,Houston Rockets,Rockets,HOU,1.00963722,13,High,0.658536585,0.804878049,5,1,1.00376627,0.919913547
+2015,Indiana Pacers,Indiana Pacers,Pacers,IND,0.94091391,13,High,0.682926829,0.853658537,1,4,0.976454835,0.919913547
+2015,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.005244389,13,High,0.695121951,0.829268293,5,2,1.007551919,0.919913547
+2015,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.982641074,13,High,0.329268293,0.341463415,0,0,0.987413468,0.919913547
+2015,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.973867596,13,High,0.609756098,0.658536585,0,1,0.939530179,0.919913547
+2015,Miami Heat,Miami Heat,Heat,MIA,1.005714286,13,High,0.658536585,0.780487805,3,8,1.009234694,0.919913547
+2015,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.796441737,11,Slightly Low,0.182926829,0.243902439,0,0,0.720574878,0.919913547
+2015,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.765517968,10,Low,0.487804878,0.585365854,2,0,0.767414901,0.919913547
+2015,New Orleans Pelicans,New Orleans Pelicans,Pelicans,NOP,0.9887354,13,High,0.414634146,0.536585366,0,0,0.971719926,0.919913547
+2015,New York Knicks,New York Knicks,NY Knicks,NYK,1,13,High,0.451219512,0.463414634,0,0,1,0.919913547
+2015,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.719512195,0.829268293,3,4,1,0.919913547
+2015,Orlando Magic,Orlando Magic,Magic,ORL,0.890639924,12,Slightly High,0.280487805,0.463414634,0,0,0.861986628,0.919913547
+2015,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.68073054,9,Very Low,0.231707317,0.243902439,0,0,0.677263405,0.919913547
+2015,Phoenix Suns,Phoenix Suns,Suns,PHO,0.991330326,13,High,0.585365854,0.634146341,1,0,0.929705348,0.919913547
+2015,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.005812458,13,High,0.658536585,0.756097561,2,2,1.015688493,0.919913547
+2015,Sacramento Kings,Sacramento Kings,Kings,SAC,0.957787146,13,High,0.341463415,0.414634146,0,0,0.940751862,0.919913547
+2015,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.010207406,13,High,0.756097561,0.780487805,2,16,0.999837116,0.919913547
+2015,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.997525253,13,High,0.585365854,0.634146341,0,1,0.921818182,0.919913547
+2015,Utah Jazz,Utah Jazz,Jazz,UTA,1.028624495,14,Very High,0.304878049,0.390243902,0,0,0.992843876,0.919913547
+2015,Washington Wizards,Washington Wizards,Wizards,WAS,0.895952053,12,Slightly High,0.536585366,0.536585366,0,2,0.836411869,0.919913547
+2014,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.791422894,11,Slightly Low,0.536585366,0.609756098,0,1,0.834805166,0.915289372
+2014,Boston Celtics,Boston Celtics,Celtics,BOS,0.94523909,13,High,0.50617284,0.675,0,1,0.972228023,0.915289372
+2014,Brooklyn Nets,Brooklyn Nets,Nets,BKN,0.9728739,13,High,0.597560976,0.634146341,0,1,0.969264606,0.915289372
+2014,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.813440268,11,Slightly Low,0.256097561,0.365853659,0,0,0.803270955,0.915289372
+2014,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.038198594,14,Very High,0.548780488,0.585365854,0,2,1.045847875,0.915289372
+2014,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.891776451,12,Slightly High,0.292682927,0.341463415,0,0,0.833264718,0.915289372
+2014,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.0390625,14,Very High,0.5,0.585365854,0,0,1.043541667,0.915289372
+2014,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.865727459,12,Slightly High,0.695121951,0.926829268,0,1,0.912858607,0.915289372
+2014,Detroit Pistons,Detroit Pistons,Pistons,DET,0.679697409,9,Very Low,0.353658537,0.43902439,0,0,0.669595941,0.915289372
+2014,Golden State Warriors,Golden State Warriors,Warriors,GSW,1,13,High,0.573170732,0.682926829,1,2,0.988620127,0.915289372
+2014,Houston Rockets,Houston Rockets,Rockets,HOU,1.00376627,13,High,0.548780488,0.707317073,1,1,0.92340072,0.915289372
+2014,Indiana Pacers,Indiana Pacers,Pacers,IND,0.976454835,13,High,0.604938272,0.731707317,1,4,0.851922111,0.915289372
+2014,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.007551919,13,High,0.682926829,0.780487805,5,1,1.008286134,0.915289372
+2014,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.987413468,13,High,0.548780488,0.707317073,4,1,0.996276484,0.915289372
+2014,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.939530179,13,High,0.682926829,0.780487805,2,4,0.934247499,0.915289372
+2014,Miami Heat,Miami Heat,Heat,MIA,1.009234694,13,High,0.804878049,0.902439024,4,16,1.019489796,0.915289372
+2014,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.720574878,10,Low,0.463414634,0.512195122,0,1,0.80328044,0.915289372
+2014,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.767414901,10,Low,0.37804878,0.487804878,0,0,0.860996944,0.915289372
+2014,New Orleans Pelicans,New Orleans Hornets,Pelicans,NOP,0.971719926,13,High,0.329268293,0.390243902,0,0,0.818343511,0.915289372
+2014,New York Knicks,New York Knicks,NY Knicks,NYK,1,13,High,0.658536585,0.756097561,2,2,0.960680396,0.915289372
+2014,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.731707317,0.829268293,5,2,1,0.915289372
+2014,Orlando Magic,Orlando Magic,Magic,ORL,0.861986628,11,Slightly Low,0.243902439,0.292682927,0,0,0.933619866,0.915289372
+2014,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.677263405,9,Very Low,0.414634146,0.56097561,0,0,0.816339486,0.915289372
+2014,Phoenix Suns,Phoenix Suns,Suns,PHO,0.929705348,12,Slightly High,0.304878049,0.414634146,0,0,0.904223537,0.915289372
+2014,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.015688493,14,Very High,0.402439024,0.536585366,0,0,1.019957821,0.915289372
+2014,Sacramento Kings,Sacramento Kings,Kings,SAC,0.940751862,13,High,0.341463415,0.487804878,0,0,0.793959693,0.915289372
+2014,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.999837116,13,High,0.707317073,0.853658537,5,8,1.000705831,0.915289372
+2014,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.921818182,12,Slightly High,0.414634146,0.512195122,0,0,0.916363636,0.915289372
+2014,Utah Jazz,Utah Jazz,Jazz,UTA,0.992843876,13,High,0.524390244,0.731707317,0,0,1.02043046,0.915289372
+2014,Washington Wizards,Washington Wizards,Wizards,WAS,0.836411869,11,Slightly Low,0.353658537,0.536585366,0,0,0.802859108,0.915289372
+2013,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.834805166,11,Slightly Low,0.606060606,0.696969697,0,1,0.838889502,0.909714331
+2013,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.590909091,0.727272727,1,4,0.972228023,0.909714331
+2013,Brooklyn Nets,New Jersey Nets,Nets,BKN,0.969264606,13,High,0.333333333,0.272727273,0,0,0.746138635,0.909714331
+2013,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.803270955,11,Slightly Low,0.106060606,0.121212121,0,0,0.7735493,0.909714331
+2013,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.045847875,14,Very High,0.757575758,0.787878788,0,1,1.059473156,0.909714331
+2013,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.833264718,11,Slightly Low,0.318181818,0.333333333,0,0,0.819575957,0.909714331
+2013,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.043541667,14,Very High,0.545454545,0.696969697,1,1,1.0590625,0.909714331
+2013,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.912858607,12,Slightly High,0.575757576,0.606060606,0,1,0.872387295,0.909714331
+2013,Detroit Pistons,Detroit Pistons,Pistons,DET,0.669595941,9,Very Low,0.378787879,0.545454545,0,0,0.652880957,0.909714331
+2013,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.988620127,13,High,0.348484848,0.363636364,0,0,0.962288222,0.909714331
+2013,Houston Rockets,Houston Rockets,Rockets,HOU,0.92340072,12,Slightly High,0.515151515,0.666666667,0,0,0.850900028,0.909714331
+2013,Indiana Pacers,Indiana Pacers,Pacers,IND,0.851922111,11,Slightly Low,0.636363636,0.696969697,0,2,0.790492663,0.909714331
+2013,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.008286134,13,High,0.606060606,0.727272727,5,2,1.007919027,0.909714331
+2013,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.621212121,0.787878788,5,2,0.996276484,0.909714331
+2013,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.934247499,12,Slightly High,0.621212121,0.787878788,0,1,0.882544678,0.909714331
+2013,Miami Heat,Miami Heat,Heat,MIA,1.019489796,14,Very High,0.696969697,0.848484848,4,16,1.017091837,0.909714331
+2013,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.80328044,11,Slightly Low,0.46969697,0.515151515,0,0,0.786343965,0.909714331
+2013,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.860996944,11,Slightly Low,0.393939394,0.393939394,2,0,0.921593424,0.909714331
+2013,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,0.818343511,11,Slightly Low,0.318181818,0.333333333,0,0,0.895772811,0.909714331
+2013,New York Knicks,New York Knicks,NY Knicks,NYK,0.960680396,13,High,0.545454545,0.666666667,2,1,0.997526751,0.909714331
+2013,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.712121212,0.787878788,5,8,1,0.909714331
+2013,Orlando Magic,Orlando Magic,Magic,ORL,0.933619866,12,Slightly High,0.560606061,0.636363636,3,1,1.002653083,0.909714331
+2013,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.816339486,11,Slightly Low,0.53030303,0.575757576,0,2,0.854673308,0.909714331
+2013,Phoenix Suns,Phoenix Suns,Suns,PHO,0.904223537,12,Slightly High,0.5,0.575757576,0,0,0.913654736,0.909714331
+2013,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.019957821,14,Very High,0.424242424,0.606060606,0,0,1.054266756,0.909714331
+2013,Sacramento Kings,Sacramento Kings,Kings,SAC,0.793959693,11,Slightly Low,0.333333333,0.484848485,0,0,0.837789455,0.909714331
+2013,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.000705831,13,High,0.757575758,0.848484848,2,4,0.998805516,0.909714331
+2013,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.916363636,12,Slightly High,0.348484848,0.393939394,0,0,0.850252525,0.909714331
+2013,Utah Jazz,Utah Jazz,Jazz,UTA,1.02043046,14,Very High,0.545454545,0.757575758,0,1,1.054626898,0.909714331
+2013,Washington Wizards,Washington Wizards,Wizards,WAS,0.802859108,11,Slightly Low,0.303030303,0.333333333,0,0,0.82177245,0.909714331
+2012,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.838889502,11,Slightly Low,0.536585366,0.585365854,1,2,0.863671487,0.911995291
+2012,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.682926829,0.804878049,0,2,0.972228023,0.911995291
+2012,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.7735493,10,Low,0.414634146,0.512195122,0,0,0.830633747,0.911995291
+2012,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.059473156,14,Very High,0.756097561,0.87804878,3,4,1.041784195,0.911995291
+2012,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.819575957,11,Slightly Low,0.231707317,0.292682927,0,0,1.034993825,0.911995291
+2012,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.0590625,14,Very High,0.695121951,0.707317073,2,16,1.046927083,0.911995291
+2012,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.872387295,12,Slightly High,0.609756098,0.804878049,0,1,0.865829918,0.911995291
+2012,Detroit Pistons,Detroit Pistons,Pistons,DET,0.652880957,9,Very Low,0.365853659,0.512195122,0,0,0.7546657,0.911995291
+2012,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.962288222,13,High,0.43902439,0.634146341,0,0,0.953868136,0.911995291
+2012,Houston Rockets,Houston Rockets,Rockets,HOU,0.850900028,11,Slightly Low,0.524390244,0.609756098,0,0,0.8967599,0.911995291
+2012,Indiana Pacers,Indiana Pacers,Pacers,IND,0.790492663,11,Slightly Low,0.451219512,0.585365854,0,1,0.755342298,0.911995291
+2012,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,1.007919027,13,High,0.390243902,0.56097561,0,0,0.930459408,0.911995291
+2012,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.695121951,0.731707317,5,2,0.996276484,0.911995291
+2012,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.882544678,12,Slightly High,0.56097561,0.731707317,1,2,0.823311229,0.911995291
+2012,Miami Heat,Miami Heat,Heat,MIA,1.017091837,14,Very High,0.707317073,0.731707317,5,8,1.009081633,0.911995291
+2012,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.786343965,10,Low,0.426829268,0.536585366,0,0,0.823422557,0.911995291
+2012,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.921593424,12,Slightly High,0.207317073,0.292682927,0,0,0.803140478,0.911995291
+2012,New Jersey Nets,New Jersey Nets,Nets,NJN,0.746138635,10,Low,0.292682927,0.463414634,0,0,0.757789536,0.911995291
+2012,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,0.895772811,12,Slightly High,0.56097561,0.682926829,1,1,0.872057864,0.911995291
+2012,New York Knicks,New York Knicks,NY Knicks,NYK,0.997526751,13,High,0.512195122,0.56097561,2,1,0.995760145,0.911995291
+2012,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,1,13,High,0.670731707,0.731707317,5,4,0.99697852,0.911995291
+2012,Orlando Magic,Orlando Magic,Magic,ORL,1.002653083,13,High,0.634146341,0.707317073,3,1,1.006685769,0.911995291
+2012,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.854673308,11,Slightly Low,0.5,0.634146341,0,1,0.720334017,0.911995291
+2012,Phoenix Suns,Phoenix Suns,Suns,PHO,0.913654736,12,Slightly High,0.487804878,0.56097561,0,0,1.029055123,0.911995291
+2012,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.054266756,14,Very High,0.585365854,0.731707317,1,1,1.054986883,0.911995291
+2012,Sacramento Kings,Sacramento Kings,Kings,SAC,0.837789455,11,Slightly Low,0.292682927,0.268292683,0,0,0.802101981,0.911995291
+2012,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.998805516,13,High,0.743902439,0.87804878,1,1,0.99435335,0.911995291
+2012,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.850252525,11,Slightly Low,0.268292683,0.390243902,0,0,0.836666667,0.911995291
+2012,Utah Jazz,Utah Jazz,Jazz,UTA,1.054626898,14,Very High,0.475609756,0.512195122,0,0,1.065825412,0.911995291
+2012,Washington Wizards,Washington Wizards,Wizards,WAS,0.82177245,11,Slightly Low,0.280487805,0.487804878,0,0,0.824867361,0.911995291
+2011,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.863671487,12,Slightly High,0.646341463,0.829268293,1,2,0.913180263,0.905282819
+2011,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.609756098,0.585365854,0,8,0.948475673,0.905282819
+2011,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.830633747,11,Slightly Low,0.536585366,0.756097561,0,1,0.829480526,0.905282819
+2011,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.041784195,14,Very High,0.5,0.585365854,0,1,0.990820863,0.905282819
+2011,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.034993825,14,Very High,0.743902439,0.853658537,3,2,1.058151503,0.905282819
+2011,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.046927083,14,Very High,0.670731707,0.682926829,2,1,1.041354167,0.905282819
+2011,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.865829918,12,Slightly High,0.646341463,0.829268293,2,1,0.921875,0.905282819
+2011,Detroit Pistons,Detroit Pistons,Pistons,DET,0.7546657,10,Low,0.329268293,0.414634146,0,0,0.849383946,0.905282819
+2011,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.953868136,13,High,0.317073171,0.43902439,0,0,0.919932639,0.905282819
+2011,Houston Rockets,Houston Rockets,Rockets,HOU,0.8967599,12,Slightly High,0.512195122,0.56097561,0,0,0.91542509,0.905282819
+2011,Indiana Pacers,Indiana Pacers,Pacers,IND,0.755342298,10,Low,0.390243902,0.56097561,0,0,0.792389667,0.905282819
+2011,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.930459408,12,Slightly High,0.353658537,0.512195122,0,0,0.857090413,0.905282819
+2011,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.695121951,0.829268293,4,16,0.996276484,0.905282819
+2011,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.823311229,11,Slightly Low,0.487804878,0.56097561,0,0,0.757839721,0.905282819
+2011,Miami Heat,Miami Heat,Heat,MIA,1.009081633,13,High,0.573170732,0.585365854,3,1,0.904591837,0.905282819
+2011,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.823422557,11,Slightly Low,0.56097561,0.682926829,1,1,0.807180638,0.905282819
+2011,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.803140478,11,Slightly Low,0.182926829,0.243902439,0,0,0.795710823,0.905282819
+2011,New Jersey Nets,New Jersey Nets,Nets,NJN,0.757789536,10,Low,0.146341463,0.195121951,0,0,0.700283256,0.905282819
+2011,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,0.872057864,12,Slightly High,0.451219512,0.585365854,0,0,0.897017845,0.905282819
+2011,New York Knicks,New York Knicks,NY Knicks,NYK,0.995760145,13,High,0.353658537,0.43902439,0,0,0.984302443,0.905282819
+2011,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,0.99697852,13,High,0.609756098,0.658536585,3,1,0.9890128,0.905282819
+2011,Orlando Magic,Orlando Magic,Magic,ORL,1.006685769,13,High,0.719512195,0.829268293,3,4,1,0.905282819
+2011,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.720334017,10,Low,0.329268293,0.292682927,0,0,0.694599082,0.905282819
+2011,Phoenix Suns,Phoenix Suns,Suns,PHO,1.029055123,14,Very High,0.658536585,0.780487805,4,4,1.033800012,0.905282819
+2011,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.054986883,14,Very High,0.609756098,0.634146341,1,1,1.054318194,0.905282819
+2011,Sacramento Kings,Sacramento Kings,Kings,SAC,0.802101981,11,Slightly Low,0.304878049,0.43902439,0,0,0.765375065,0.905282819
+2011,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.99435335,13,High,0.609756098,0.707317073,1,2,0.98213704,0.905282819
+2011,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.836666667,11,Slightly Low,0.487804878,0.609756098,0,0,0.903888889,0.905282819
+2011,Utah Jazz,Utah Jazz,Jazz,UTA,1.065825412,14,Very High,0.646341463,0.780487805,2,2,1.058560035,0.905282819
+2011,Washington Wizards,Washington Wizards,Wizards,WAS,0.824867361,11,Slightly Low,0.317073171,0.365853659,0,0,0.796030654,0.905282819
+2010,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.913180263,12,Slightly High,0.573170732,0.756097561,0,2,0.92438459,0.922605833
+2010,Boston Celtics,Boston Celtics,Celtics,BOS,0.948475673,13,High,0.756097561,0.853658537,2,2,0.972228023,0.922605833
+2010,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.829480526,11,Slightly Low,0.426829268,0.56097561,0,0,0.761440478,0.922605833
+2010,Chicago Bulls,Chicago Bulls,Bulls,CHI,0.990820863,13,High,0.5,0.682926829,0,1,1.013386241,0.922605833
+2010,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.058151503,14,Very High,0.804878049,0.951219512,3,4,1.029744751,0.922605833
+2010,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.041354167,14,Very High,0.609756098,0.780487805,3,2,1.043854167,0.922605833
+2010,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.921875,12,Slightly High,0.658536585,0.804878049,1,4,0.88232582,0.922605833
+2010,Detroit Pistons,Detroit Pistons,Pistons,DET,0.849383946,11,Slightly Low,0.475609756,0.512195122,0,1,0.990985686,0.922605833
+2010,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.919932639,12,Slightly High,0.353658537,0.512195122,0,0,0.966625842,0.922605833
+2010,Houston Rockets,Houston Rockets,Rockets,HOU,0.91542509,12,Slightly High,0.646341463,0.804878049,2,2,0.968263639,0.922605833
+2010,Indiana Pacers,Indiana Pacers,Pacers,IND,0.792389667,11,Slightly Low,0.43902439,0.609756098,0,0,0.791273782,0.922605833
+2010,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.857090413,11,Slightly Low,0.231707317,0.268292683,0,0,0.848017621,0.922605833
+2010,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.792682927,0.87804878,4,16,0.996276484,0.922605833
+2010,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.757839721,10,Low,0.292682927,0.390243902,0,0,0.716252669,0.922605833
+2010,Miami Heat,Miami Heat,Heat,MIA,0.904591837,12,Slightly High,0.524390244,0.682926829,3,1,0.93005102,0.922605833
+2010,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.807180638,11,Slightly Low,0.414634146,0.536585366,0,0,0.822193728,0.922605833
+2010,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.795710823,11,Slightly Low,0.292682927,0.268292683,0,0,0.764306039,0.922605833
+2010,New Jersey Nets,New Jersey Nets,Nets,NJN,0.700283256,9,Very Low,0.414634146,0.463414634,0,0,0.798302941,0.922605833
+2010,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,0.897017845,12,Slightly High,0.597560976,0.682926829,2,1,1.005988024,0.922605833
+2010,New York Knicks,New York Knicks,NY Knicks,NYK,0.984302443,13,High,0.390243902,0.487804878,0,0,0.973500909,0.922605833
+2010,Oklahoma City Thunder,Oklahoma City Thunder,Thunder,OKC,0.9890128,13,High,0.280487805,0.365853659,0,0,1.02691864,0.922605833
+2010,Orlando Magic,Orlando Magic,Magic,ORL,1,13,High,0.719512195,0.780487805,3,8,0.976060936,0.922605833
+2010,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.694599082,9,Very Low,0.5,0.585365854,0,1,0.771657388,0.922605833
+2010,Phoenix Suns,Phoenix Suns,Suns,PHO,1.033800012,14,Very High,0.56097561,0.682926829,1,0,1.079140062,0.922605833
+2010,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.054318194,14,Very High,0.658536585,0.829268293,2,1,1.055707011,0.922605833
+2010,Sacramento Kings,Sacramento Kings,Kings,SAC,0.765375065,10,Low,0.207317073,0.268292683,0,0,0.725934053,0.922605833
+2010,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.98213704,13,High,0.658536585,0.682926829,3,1,0.991910088,0.922605833
+2010,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.903888889,12,Slightly High,0.402439024,0.43902439,0,0,0.948131313,0.922605833
+2010,Utah Jazz,Utah Jazz,Jazz,UTA,1.058560035,14,Very High,0.585365854,0.804878049,0,1,1.087239157,0.922605833
+2010,Washington Wizards,Washington Wizards,Wizards,WAS,0.796030654,11,Slightly Low,0.231707317,0.317073171,0,0,0.816073885,0.922605833
+2009,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.92438459,12,Slightly High,0.451219512,0.609756098,0,1,0.898553924,0.915933413
+2009,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.804878049,0.853658537,4,16,0.972228023,0.915933413
+2009,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.761440478,10,Low,0.390243902,0.512195122,0,0,0.771452534,0.915933413
+2009,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.013386241,14,Very High,0.402439024,0.487804878,0,0,1.051154563,0.915933413
+2009,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.029744751,14,Very High,0.548780488,0.658536585,3,2,1.053159737,0.915933413
+2009,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.043854167,14,Very High,0.62195122,0.829268293,2,1,1.0565625,0.915933413
+2009,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.88232582,12,Slightly High,0.609756098,0.804878049,0,1,0.88954918,0.915933413
+2009,Detroit Pistons,Detroit Pistons,Pistons,DET,0.990985686,13,High,0.719512195,0.829268293,0,4,1,0.915933413
+2009,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.966625842,13,High,0.585365854,0.658536585,0,0,1.001735048,0.915933413
+2009,Houston Rockets,Houston Rockets,Rockets,HOU,0.968263639,13,High,0.670731707,0.756097561,2,1,0.970589864,0.915933413
+2009,Indiana Pacers,Indiana Pacers,Pacers,IND,0.791273782,11,Slightly Low,0.43902439,0.512195122,0,0,0.681861296,0.915933413
+2009,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.848017621,11,Slightly Low,0.280487805,0.317073171,0,0,0.885672331,0.915933413
+2009,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.695121951,0.731707317,3,8,0.996276484,0.915933413
+2009,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.716252669,10,Low,0.268292683,0.341463415,0,0,0.717657637,0.915933413
+2009,Miami Heat,Miami Heat,Heat,MIA,0.93005102,12,Slightly High,0.182926829,0.219512195,0,0,0.993010204,0.915933413
+2009,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.822193728,11,Slightly Low,0.317073171,0.463414634,0,0,0.833199765,0.915933413
+2009,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.764306039,10,Low,0.268292683,0.365853659,0,0,0.762777953,0.915933413
+2009,New Jersey Nets,New Jersey Nets,Nets,NJN,0.798302941,11,Slightly Low,0.414634146,0.512195122,0,0,0.825129124,0.915933413
+2009,New Orleans Hornets,New Orleans Hornets,Pelicans,NOH,1.005988024,13,High,0.682926829,0.731707317,3,2,0.840754135,0.915933413
+2009,New York Knicks,New York Knicks,NY Knicks,NYK,0.973500909,13,High,0.280487805,0.365853659,0,0,0.964819301,0.915933413
+2009,Oklahoma City Thunder,Seattle SuperSonics,Thunder,OKC,1.02691864,14,Very High,0.243902439,0.317073171,0,0,0.733670274,0.915933413
+2009,Orlando Magic,Orlando Magic,Magic,ORL,0.976060936,13,High,0.634146341,0.609756098,3,2,0.990836722,0.915933413
+2009,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.771657388,10,Low,0.487804878,0.536585366,0,1,0.726145131,0.915933413
+2009,Phoenix Suns,Phoenix Suns,Suns,PHO,1.079140062,14,Very High,0.670731707,0.731707317,4,1,1.079140062,0.915933413
+2009,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.055707011,14,Very High,0.5,0.682926829,0,0,1.005606707,0.915933413
+2009,Sacramento Kings,Sacramento Kings,Kings,SAC,0.725934053,10,Low,0.463414634,0.634146341,0,0,0.817116129,0.915933413
+2009,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,0.991910088,13,High,0.682926829,0.829268293,3,4,1.007927028,0.915933413
+2009,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.948131313,13,High,0.5,0.609756098,0,1,0.981565657,0.915933413
+2009,Utah Jazz,Utah Jazz,Jazz,UTA,1.087239157,14,Very High,0.658536585,0.902439024,3,2,1.087457664,0.915933413
+2009,Washington Wizards,Washington Wizards,Wizards,WAS,0.816073885,11,Slightly Low,0.524390244,0.609756098,0,1,0.882393398,0.915933413
+2008,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.898553924,12,Slightly High,0.365853659,0.43902439,0,0,0.860691025,0.937171953
+2008,Boston Celtics,Boston Celtics,Celtics,BOS,0.972228023,13,High,0.292682927,0.292682927,0,0,0.879254542,0.937171953
+2008,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.771452534,10,Low,0.402439024,0.487804878,0,0,0.815065262,0.937171953
+2008,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.051154563,14,Very High,0.597560976,0.756097561,0,2,1.063823684,0.937171953
+2008,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.053159737,14,Very High,0.609756098,0.731707317,2,8,1.051667353,0.937171953
+2008,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.0565625,14,Very High,0.817073171,0.87804878,3,1,1.059947917,0.937171953
+2008,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.88954918,12,Slightly High,0.548780488,0.56097561,1,1,0.882684426,0.937171953
+2008,Detroit Pistons,Detroit Pistons,Pistons,DET,1,13,High,0.646341463,0.634146341,1,4,1,0.937171953
+2008,Golden State Warriors,Golden State Warriors,Warriors,GSW,1.001735048,13,High,0.512195122,0.731707317,0,2,0.923862013,0.937171953
+2008,Houston Rockets,Houston Rockets,Rockets,HOU,0.970589864,13,High,0.634146341,0.682926829,4,1,0.916366657,0.937171953
+2008,Indiana Pacers,Indiana Pacers,Pacers,IND,0.681861296,9,Very Low,0.426829268,0.536585366,0,0,0.856943592,0.937171953
+2008,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.885672331,12,Slightly High,0.487804878,0.609756098,0,0,0.966068806,0.937171953
+2008,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.996276484,13,High,0.512195122,0.609756098,3,1,0.995647158,0.937171953
+2008,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.717657637,10,Low,0.268292683,0.341463415,0,0,0.823536023,0.937171953
+2008,Miami Heat,Miami Heat,Heat,MIA,0.993010204,13,High,0.536585366,0.658536585,1,1,1.006122449,0.937171953
+2008,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.833199765,11,Slightly Low,0.341463415,0.43902439,0,0,0.864775338,0.937171953
+2008,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.762777953,10,Low,0.390243902,0.487804878,1,0,0.842976078,0.937171953
+2008,New Jersey Nets,New Jersey Nets,Nets,NJN,0.825129124,11,Slightly Low,0.5,0.585365854,0,2,0.892010119,0.937171953
+2008,New Orleans Hornets,New Orleans/Oklahoma City Hornets,Pelicans,NOH,0.840754135,11,Slightly Low,0.475609756,0.585365854,0,0,1.057271595,0.937171953
+2008,New York Knicks,New York Knicks,NY Knicks,NYK,0.964819301,13,High,0.402439024,0.463414634,0,0,0.949172219,0.937171953
+2008,Orlando Magic,Orlando Magic,Magic,ORL,0.990836722,13,High,0.487804878,0.609756098,1,1,0.978981731,0.937171953
+2008,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.726145131,10,Low,0.426829268,0.512195122,0,0,0.724826643,0.937171953
+2008,Phoenix Suns,Phoenix Suns,Suns,PHO,1.079140062,14,Very High,0.743902439,0.804878049,6,2,1.079140062,0.937171953
+2008,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,1.005606707,13,High,0.390243902,0.43902439,0,0,0.841520498,0.937171953
+2008,Sacramento Kings,Sacramento Kings,Kings,SAC,0.817116129,11,Slightly Low,0.402439024,0.487804878,0,0,1,0.937171953
+2008,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.007927028,13,High,0.707317073,0.756097561,3,16,1.012813552,0.937171953
+2008,Seattle SuperSonics,Seattle SuperSonics,Thunder,SEA,0.733670274,10,Low,0.37804878,0.487804878,0,0,0.876503873,0.937171953
+2008,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.981565657,13,High,0.573170732,0.731707317,2,1,0.922121212,0.937171953
+2008,Utah Jazz,Utah Jazz,Jazz,UTA,1.087457664,14,Very High,0.62195122,0.756097561,0,4,1.068829892,0.937171953
+2008,Washington Wizards,Washington Wizards,Wizards,WAS,0.882393398,12,Slightly High,0.5,0.634146341,2,1,0.902534879,0.937171953
+2007,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.860691025,11,Slightly Low,0.317073171,0.43902439,0,0,0.831824705,0.926505619
+2007,Boston Celtics,Boston Celtics,Celtics,BOS,0.879254542,12,Slightly High,0.402439024,0.512195122,0,0,0.882177908,0.926505619
+2007,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.815065262,11,Slightly Low,0.317073171,0.414634146,0,0,0.857891702,0.926505619
+2007,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.063823684,14,Very High,0.5,0.512195122,0,1,1.012955969,0.926505619
+2007,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,1.051667353,14,Very High,0.609756098,0.756097561,3,2,0.99454508,0.926505619
+2007,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.059947917,14,Very High,0.731707317,0.829268293,3,8,1.047604167,0.926505619
+2007,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.882684426,12,Slightly High,0.536585366,0.634146341,1,1,0.877920082,0.926505619
+2007,Detroit Pistons,Detroit Pistons,Pistons,DET,1,13,High,0.780487805,0.902439024,4,4,1,0.926505619
+2007,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.923862013,12,Slightly High,0.414634146,0.512195122,0,0,0.932435191,0.926505619
+2007,Houston Rockets,Houston Rockets,Rockets,HOU,0.916366657,12,Slightly High,0.414634146,0.365853659,1,0,0.859263362,0.926505619
+2007,Indiana Pacers,Indiana Pacers,Pacers,IND,0.856943592,11,Slightly Low,0.5,0.658536585,0,1,0.902694861,0.926505619
+2007,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.966068806,13,High,0.573170732,0.658536585,2,2,0.911212503,0.926505619
+2007,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.995647158,13,High,0.548780488,0.658536585,3,1,0.990245437,0.926505619
+2007,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.823536023,11,Slightly Low,0.597560976,0.731707317,0,1,0.887546364,0.926505619
+2007,Miami Heat,Miami Heat,Heat,MIA,1.006122449,13,High,0.634146341,0.756097561,5,16,1.018061224,0.926505619
+2007,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.864775338,12,Slightly High,0.487804878,0.609756098,0,1,0.887802532,0.926505619
+2007,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.842976078,11,Slightly Low,0.402439024,0.585365854,0,0,0.850985351,0.926505619
+2007,New Jersey Nets,New Jersey Nets,Nets,NJN,0.892010119,12,Slightly High,0.597560976,0.707317073,0,2,0.888900601,0.926505619
+2007,New Orleans/Oklahoma City Hornets,New Orleans/Oklahoma City Hornets,Pelicans,NOK,1.057271595,14,Very High,0.463414634,0.585365854,0,0,1.077132863,0.926505619
+2007,New York Knicks,New York Knicks,NY Knicks,NYK,0.949172219,13,High,0.280487805,0.365853659,0,0,0.955532001,0.926505619
+2007,Orlando Magic,Orlando Magic,Magic,ORL,0.978981731,13,High,0.43902439,0.634146341,0,0,0.891186072,0.926505619
+2007,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.724826643,10,Low,0.463414634,0.56097561,1,0,0.80662174,0.926505619
+2007,Phoenix Suns,Phoenix Suns,Suns,PHO,1.079140062,14,Very High,0.658536585,0.756097561,4,4,1.043231211,0.926505619
+2007,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.841520498,11,Slightly Low,0.256097561,0.365853659,0,0,0.774085695,0.926505619
+2007,Sacramento Kings,Sacramento Kings,Kings,SAC,1,13,High,0.536585366,0.658536585,0,1,1,0.926505619
+2007,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.012813552,14,Very High,0.768292683,0.829268293,2,2,1.020577696,0.926505619
+2007,Seattle SuperSonics,Seattle SuperSonics,Thunder,SEA,0.876503873,12,Slightly High,0.426829268,0.536585366,0,0,0.889853321,0.926505619
+2007,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.922121212,12,Slightly High,0.329268293,0.365853659,0,0,0.861414141,0.926505619
+2007,Utah Jazz,Utah Jazz,Jazz,UTA,1.068829892,14,Very High,0.5,0.536585366,0,0,1.001420299,0.926505619
+2007,Washington Wizards,Washington Wizards,Wizards,WAS,0.902534879,12,Slightly High,0.512195122,0.658536585,1,1,0.844763215,0.926505619
+2006,Atlanta Hawks,Atlanta Hawks,Hawks,ATL,0.831824705,11,Slightly Low,0.158536585,0.219512195,0,0,0.789380726,0.912848252
+2006,Boston Celtics,Boston Celtics,Celtics,BOS,0.882177908,12,Slightly High,0.548780488,0.658536585,0,1,0.835299645,0.912848252
+2006,Charlotte Bobcats,Charlotte Bobcats,Hornets,CHA,0.857891702,11,Slightly Low,0.219512195,0.341463415,0,0,0.756460659,0.912848252
+2006,Chicago Bulls,Chicago Bulls,Bulls,CHI,1.012955969,14,Very High,0.573170732,0.658536585,0,1,0.965912894,0.912848252
+2006,Cleveland Cavaliers,Cleveland Cavaliers,Cavaliers,CLE,0.99454508,13,High,0.512195122,0.707317073,2,0,0.984355702,0.912848252
+2006,Dallas Mavericks,Dallas Mavericks,Mavericks,DAL,1.047604167,14,Very High,0.707317073,0.707317073,3,2,1.04484375,0.912848252
+2006,Denver Nuggets,Denver Nuggets,Nuggets,DEN,0.877920082,12,Slightly High,0.597560976,0.756097561,0,1,0.904559426,0.912848252
+2006,Detroit Pistons,Detroit Pistons,Pistons,DET,1,13,High,0.658536585,0.780487805,1,8,1,0.912848252
+2006,Golden State Warriors,Golden State Warriors,Warriors,GSW,0.932435191,12,Slightly High,0.414634146,0.487804878,0,0,0.83435395,0.912848252
+2006,Houston Rockets,Houston Rockets,Rockets,HOU,0.859263362,11,Slightly Low,0.62195122,0.634146341,1,1,0.896206037,0.912848252
+2006,Indiana Pacers,Indiana Pacers,Pacers,IND,0.902694861,12,Slightly High,0.536585366,0.609756098,0,2,0.94816716,0.912848252
+2006,Los Angeles Clippers,Los Angeles Clippers,Clippers,LAC,0.911212503,12,Slightly High,0.451219512,0.658536585,0,0,0.890497168,0.912848252
+2006,Los Angeles Lakers,Los Angeles Lakers,Lakers,LAL,0.990245437,13,High,0.414634146,0.536585366,1,0,0.985525488,0.912848252
+2006,Memphis Grizzlies,Memphis Grizzlies,Grizzlies,MEM,0.887546364,12,Slightly High,0.548780488,0.634146341,0,1,0.947622794,0.912848252
+2006,Miami Heat,Miami Heat,Heat,MIA,1.018061224,14,Very High,0.719512195,0.853658537,5,4,1.014336735,0.912848252
+2006,Milwaukee Bucks,Milwaukee Bucks,Bucks,MIL,0.887802532,12,Slightly High,0.365853659,0.56097561,0,0,0.83004755,0.912848252
+2006,Minnesota Timberwolves,Minnesota Timberwolves,Timberwolves,MIN,0.850985351,11,Slightly Low,0.536585366,0.585365854,2,0,0.905311413,0.912848252
+2006,New Jersey Nets,New Jersey Nets,Nets,NJN,0.888900601,12,Slightly High,0.512195122,0.585365854,0,1,0.795246126,0.912848252
+2006,New Orleans/Oklahoma City Hornets,New Orleans Hornets,Pelicans,NOK,1.077132863,14,Very High,0.219512195,0.268292683,0,0,0.84312563,0.912848252
+2006,New York Knicks,New York Knicks,NY Knicks,NYK,0.955532001,13,High,0.402439024,0.536585366,0,0,0.985009085,0.912848252
+2006,Orlando Magic,Orlando Magic,Magic,ORL,0.891186072,12,Slightly High,0.43902439,0.585365854,0,0,0.835175534,0.912848252
+2006,Philadelphia 76ers,Philadelphia 76ers,76ers,PHI,0.80662174,11,Slightly Low,0.524390244,0.609756098,3,1,0.872643813,0.912848252
+2006,Phoenix Suns,Phoenix Suns,Suns,PHO,1.043231211,14,Very High,0.756097561,0.756097561,6,4,1.037314744,0.912848252
+2006,Portland Trail Blazers,Portland Trail Blazers,Trail Blazers,POR,0.774085695,10,Low,0.329268293,0.43902439,0,0,0.853556916,0.912848252
+2006,Sacramento Kings,Sacramento Kings,Kings,SAC,1,13,High,0.609756098,0.731707317,0,1,1,0.912848252
+2006,San Antonio Spurs,San Antonio Spurs,Spurs,SAS,1.020577696,14,Very High,0.719512195,0.926829268,3,16,0.994461939,0.912848252
+2006,Seattle SuperSonics,Seattle SuperSonics,Thunder,SEA,0.889853321,12,Slightly High,0.634146341,0.634146341,2,2,0.900273224,0.912848252
+2006,Toronto Raptors,Toronto Raptors,Raptors,TOR,0.861414141,11,Slightly Low,0.402439024,0.536585366,0,0,0.866414141,0.912848252
+2006,Utah Jazz,Utah Jazz,Jazz,UTA,1.001420299,13,High,0.317073171,0.43902439,0,0,1.024582104,0.912848252
+2006,Washington Wizards,Washington Wizards,Wizards,WAS,0.844763215,11,Slightly Low,0.548780488,0.707317073,1,2,0.844763215,0.912848252
